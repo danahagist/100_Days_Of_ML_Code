@@ -1,21 +1,23 @@
-# 100 Days Of ML Code - Example Log
+# 100 Days Of ML Code - Activity Log
 
-## Use this as a base template. Create your own repository on GitHub and start logging your work daily!
+### Day 0: July 29th, 2018
 
-### Day 0: February 29, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Learned about hyperparameter tuning, which entails changing the parameters of a machine learning model, as opposed to making changes to the underlying data.  In this case, was looking at the k-value in a KNN model (see next line).
 
-**Link to work:** [Calculator App](http://www.github.com)
+Worked through exercises to optimize hyperparamters, specifically in a k-nearest-neighbors model (optimizing the k-value by using grid search).
 
-### Day 1: February 30, 2016 (Example 2) 
+Next, learned about using holdout validation, a process involving splitting your dataset into a 50% train and 50% test set, generating predictions, calculating errors, switching the train and test set, repeating earlier steps, and then averaging your errors.
 
-**Today's Progress**: I've gone through many exercises on KhanAcademy.
+**Thoughts:** 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+The hyperparameter tuning using grid search is pretty quick, easy, and efficient.  I enjoyed learning about it.  However, throughout the exercises, I had to revisit a couple concepts including looping through dictionaries and using the Python built-in function 'enumerate'.
 
-**Link(s) to work**
-[Find the Longest Word in a String](www.github.com)
+This was my first exposure to holdout validation, which is a pretty handy concept.  I'm looking forward to learning more about this and applying to some other "price prediction" datasets.
+
+**Link to work:** https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day0_knn.py
+
+
+
