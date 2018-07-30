@@ -19,5 +19,24 @@ This was my first exposure to holdout validation, which is a pretty handy concep
 
 **Link to work:** https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day0_knn.py
 
+### Day 1: July 30th, 2018
+
+
+**Today's Progress**:
+
+Learned about the modules KFold and cross_val_score, both from Python's Scikit-Learn library.  
+
+Worked on completing the Dataquest Machine Learning Fundamentals course by spending an hour on the guided project, Predicting Car Prices.  I will post the completed project once I make it all the way through.  One thing I try to do with most of these guided projects is to create a template that can be used for other similar efforts.
+
+I also signed up for the following Kaggle competition : https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/discussion/62146
+And.... the associated Google Cloud ML Course on Coursera: https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?utm_source=googlecloud&utm_medium=institutions&utm_campaign=kaggle_competition_email
+
+It's going to be a lottttttt to keep up with all of these things over the next 100 days, but I couldn't be more excited to learn and grind.
+
+**Thoughts:** 
+
+One thing I'm consistently reminded of as I go through various exercises and guided projects is how important knowing how to clean your data is.  Data is inherently "unclean" from an analytics perspective, and it takes significant effort to get your dataframe into a format where you COULD apply a machine learning algorithm to it.  I imagine it's a topic I'm going to have to come back to again and again.
+
+**Link to work:** No links today, but will post as soon as the "Predicting Car Prices" project is done from Dataquest.
 
 
