@@ -41,4 +41,15 @@ One thing I'm consistently reminded of as I go through various exercises and gui
 
 **Link to work:** https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day1_factorial.py
 
+### Day 2: July 31st, 2018
 
+**Today's Progress**:
+
+Worked through HackerRank's Day 10 Challenge, counting the maximum number of 1's in a binary representation of some int.  This was a good little challenge, and I took the longer route to ensure I understood every step.  You can see the link to my work below
+
+**Thoughts:** 
+
+One of the first things I did today was decided to make a change to my approach in terms of studying.  Although I'm generally putting between 3-4 hours a day, I want to be sure I'm hitting certain things daily.  As such, I'm going to always start my day with a single HackerRank challenge.  That will ensure I always have something that I can share and that I'm getting the coding synapses firing.  After HackerRank, I'll ensure I get at least 1% of my Dataquest Data Scientist Path completed.  Lastly, I'll spend the rest of my time doing the Google Cloud Machine Learning Course and Kaggle Taxi Fare Prediction Competition.
+
+**Link to work:** 
+https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day2_binary.py
