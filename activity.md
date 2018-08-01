@@ -1,7 +1,8 @@
 # 100 Days Of ML Code - Activity Log
 
-### Day 0: July 29th, 2018
 
+
+### Day 0: July 29th, 2018
 
 **Today's Progress**:
 
@@ -19,8 +20,9 @@ This was my first exposure to holdout validation, which is a pretty handy concep
 
 **Link to work:** https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day0_knn.py
 
-### Day 1: July 30th, 2018
 
+
+### Day 1: July 30th, 2018
 
 **Today's Progress**:
 
@@ -41,6 +43,8 @@ One thing I'm consistently reminded of as I go through various exercises and gui
 
 **Link to work:** https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day1_factorial.py
 
+
+
 ### Day 2: July 31st, 2018
 
 **Today's Progress**:
@@ -60,3 +64,27 @@ https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day2_binary.py
 
 **Link to work 2 (Dataquest Project):**
 https://dananomics.com/portfolio/predicting-car-prices/
+
+
+
+### Day 3: August 1st, 2018
+
+**Today's Progress**:
+Started the day working through HackerRanks "30 Days of Code" Day 11 challenge on 2D Arrays.  More specifically, the task was to take a 6 x 6 2D array, and find the largest sum of all hourglass shapes.  This was great practice for much of the HackerRank challenges leading up to it, reinforcing the concepts of referencing by index, loops, and finding maximum values.  You can see the link to my solution below.
+
+Next, I dug into Dataquest's Calculus for Machine Learning course, which begins with a discussion of "rate of change" and the concept of a secant line (which I imagine will soon translate to a discussion on tangents and derivatives).
+
+I might get a small amount more than this done today, but will call it a little earlier than usual.  I still got around 2 hours of studying in, which I feel okay about.
+
+**Thoughts:** 
+Reflecting on the last few months, and also understanding how I'm approaching things going forward, I can't help but feel extremely optimistic that I've been making good progress and will be making great progress going forward.  It's been a lot of fun to feel certain synapses in my brain fire in new ways and for algorithmic thinking to start seeming more natural.  
+
+In the world of Computer Science, and the exploding disciplines of Data Science and Machine Learning, one of the biggest appeals to me is that you can never master it.  To be fair, you can get really good.  But, just as you're getting really good, technology is still evolving.  New paradigms are coming into existence, new software and hardware stacks, new languages.  It is now and has been evident to me for some time that I never want to stop this journey.  
+
+I'm loving every minute!
+
+**Link to work:** 
+https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day3_2dArray.py
+
+
+
