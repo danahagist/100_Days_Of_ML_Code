@@ -45,7 +45,11 @@ One thing I'm consistently reminded of as I go through various exercises and gui
 
 **Today's Progress**:
 
-Worked through HackerRank's Day 10 Challenge, counting the maximum number of 1's in a binary representation of some int.  This was a good little challenge, and I took the longer route to ensure I understood every step.  You can see the link to my work below
+Worked through HackerRank's Day 10 Challenge, counting the maximum number of 1's in a binary representation of some int.  This was a good little challenge, and I took the longer route to ensure I understood every step.  You can see the link to my work below.
+
+I also completed Dataquest's Machine Learning Fundamentals course including a project to predict car prices.  Link to this is also below.
+
+I will wrap up the day by working through some more of Google Cloud's ML Course.
 
 **Thoughts:** 
 
@@ -53,3 +57,6 @@ One of the first things I did today was decided to make a change to my approach 
 
 **Link to work:** 
 https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day2_binary.py
+
+**Link to work 2 (Dataquest Project):**
+https://dananomics.com/portfolio/predicting-car-prices/
