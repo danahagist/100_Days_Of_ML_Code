@@ -91,12 +91,12 @@ https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day3_2dArray.py
 ### Day 4: August 2nd, 2018
 
 **Today's Progress**:
-Started out with Day 12 of HackerRanks "30 Days of Code" challenge, which dealt with class and inheritance.  This is one of those topics, that are you're getting started, seem pretty abstract and can be a little bit challenging to grasp.  However, the power of class inheritance in object-oriented programming cannot be overstated.  Having classes and subclasses saves you tons of time writing the same functions, methods and the like over and over.  Link to my solution is below.
+Started out with Day 12 of HackerRank's "30 Days of Code" challenge, which dealt with class and inheritance.  This is one of those topics, that when you're getting started, seems pretty abstract and can be a little bit challenging to grasp.  However, the power of class inheritance in object-oriented programming cannot be overstated.  Having classes and sub-classes saves you tons of time writing the same functions, methods and the like over and over.  Link to my solution is below.
 
 I'm getting my progress tracking out of the way now, but I do expect to spend another hour working on Dataquest's Linear Algebra for Machine Learning course.  
 
 **Thoughts:** 
-Yesterday was a bit of a challenge from a motivational standpoint.  I got through quite a bit of material, but felt like I was having to "bite down on the mouthguard" (to borrow a sports saying) to keep going.  It's important for me to remember that it's okay to have those days, and to have days where I meet my minimal committment of one hour.  Burnout is a real thing when you're pouring everything you have into something.  I've dealth with it in sports, in academia, and just about every other facet of life.  As such, today I'm going to wrap things up at a reasonable time, spend time with my wife, and allow my brain a chance to digest much of the material I've poured into it over the last week or so. 
+Yesterday was a bit of a challenge from a motivational standpoint.  I got through quite a bit of material, but felt like I was having to "bite down on the mouth guard" (to borrow a sports saying) to keep going.  It's important for me to remember that it's okay to have those days, and to have days where I meet my minimal commitment of one hour.  Burnout is a real thing when you're pouring everything you have into something.  I've dealth with it in sports, in academia, and just about every other facet of life.  It's natural, and it passes.  As such, today I'm going to wrap things up at a reasonable time, spend time with my wife, and allow my brain a chance to digest much of the material I've poured into it over the last week or so. 
 
 **Link to work:** 
 https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day4_inheritance.py
