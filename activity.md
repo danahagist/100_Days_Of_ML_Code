@@ -103,3 +103,22 @@ https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day4_inheritance.p
 
 
 
+### Day 5: August 3rd, 2018
+
+**Today's Progress**:
+Today, I kicked things off with HackerRank's Day 12 of the 30 Days of Code.  The challenge today had to do with Abstract Classes, which involves creating a class, that cannot be instantiated, but whose properties and methods are then extended to a subslcass, which can be instantiated (say, what?!)  See thoughts below in "Thoughts" section.
+
+Next, I continued working on Dataquest's Linear Algebra for Machine Learning course.  Specifically, worked on getting matrices into row reduced echelon form (1's along diagonal from top left to bottom right and 0's elsewhere), using Gaussian Elimination (leveraging row operations to get matrix into desired form).
+
+I also plan to get some of the Coursera/Google Cloud ML course in over the course of the day.
+
+I'm at 2.5 hours of study so far today, which is a good way to start my morning, and kick off my work day.
+
+**Thoughts:** 
+Continuing on with my "say, what?!" comment above, this was a pretty straight-forward challenge for an all-things-not-straight-forward concept.  I had to do quite a bit of reading about the purpose for using an Abstract Base Class (ABC) in Python, and came to this conclusion: the primary goal is to ensure what can be considered certain "standards" on the subclasses.  For example, all attributes and methods must be defined in the subclass.  This can help you avoid overlooking certain things you need your subclass to do.  Really interesting and seemingly valuable concept, primarily when you are coding at scale (many subclasses per ABC).  However, am I missing anything here?  Would love to hear a "layman's terms" explanation of this concept.
+
+With regards to the linear algegbra, I didn't realize how much of this content has slipped my mind over the years since my Mathematical Economics courses.  Revisiting this material really reinforces that how I'm approaching my learning, by going through specializations/tracks, is a great way to do it.  Reason being, even if you have to revisit topics you already "know," this really helps solidify them and serves as a great refresher. 
+
+**Link to work:** 
+https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day5_abstractClasses.py
+
