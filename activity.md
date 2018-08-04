@@ -122,3 +122,25 @@ With regards to the linear algegbra, I didn't realize how much of this content h
 **Link to work:** 
 https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day5_abstractClasses.py
 
+
+
+### Day 6: August 4th, 2018
+
+**Today's Progress**:
+Got Day 6 of the 100 Days of ML Challenge started with HackerRanks "30 Days of Code" Day 14 Scope challenge.  This challenge involved creating a class method that references instance variables, and computing the maximum difference between any 2 integers in a list.  See "Link to work" below for solution.
+
+
+
+**Thoughts:** 
+Object-oriented programming is a very powerful thing, and can feel a bit overwhelming at times.  Class inheritance, instance and class methods, super(), metaclass... the terms alone are enough to make your head spin.  However, there is one thing that makes me feel better about my ability to thoroughly grasp these concepts over time, and that is, that I am leaps and bounds beyond where I was when I started programming, and even from a couple months back.
+
+A saying that I often think of during those grueling days is from the one and only Dwayne "The Rock" Johnson.  He says, “Success isn’t always about ‘Greatness’, it’s about consistency. Consistent, hard work gains success. Greatness will come.”  I've noticed with anything you are trying to learn and get better at in life, the way you do that is BY SHOWING UP AND BEING ENGAGED.  Even on an off day, you can still watch a video or read an article having to do with whatever it is your trying to learn.
+
+I've mentioned before, but it's been fun to feel certain concepts which once I couldn't grasp become much more palatable over time, and even to where I feel I could explain them to someone else.  The journey is long from over, but it's already been really gratifiying.
+
+
+
+**Link to work:** 
+https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day6_scope.py
+
+
