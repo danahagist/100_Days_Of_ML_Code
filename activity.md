@@ -160,7 +160,7 @@ I might cap the day off with some of the Google ML course on Coursera, but that'
 **Thoughts:** 
 At a high level, the concept of a linked list is not a particularly difficult thing to grasp.  Here's the gist... you have a header node, which starts with data and a pointer to any subsequent/ linked nodes.  As each node is added, it similarly has data and pointers to the next nodes.  The last node has data, and null/'None' as a pointer. 
 
-Despite being able to grasp the concept well, I definitely feel like I need to keep reading up on implementation steps and try to find some walkthroughs, so that I thorougly understand all of the code.  
+Despite being able to grasp the concept well, I definitely feel like I need to keep reading up on implementation steps and try to find some walkthroughs, so that I thoroughly understand all of the code.  
 
 **Link to work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day7_linkedList.py
