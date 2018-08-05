@@ -147,3 +147,20 @@ I've mentioned before, that it's been fun to notice certain concepts which once 
 2) Dataquest: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day6_matrixInversion.py
 
 
+
+### Day 7: August 5th, 2018
+
+**Today's Progress**:
+For Day 7 of the 100 Days of ML Challenge, I worked on a HackerRank challenge for Linked Lists.  My task was to create an insert method to take a first node (header), create the subsequent nodes, and return a reference to the header. (see "Link to work" below)
+
+Spent a little over an hour working on the problem and reading documntation on how Linked Lists work, and how they are implemented in Python.  
+
+I might cap the day off with some of the Google ML course on Coursera, but that's up in the air at this point.
+
+**Thoughts:** 
+At a high level, the concept of a linked list is not a particularly difficult thing to grasp.  Here's the gist... you have a header node, which starts with data and a pointer to any subsequent/ linked nodes.  As each node is added, it similarly has data and pointers to the next nodes.  The last node has data, and null/'None' as a pointer. 
+
+Despite being able to grasp the concept well, I definitely feel like I need to keep reading up on implementation steps and try to find some walkthroughs, so that I thorougly understand all of the code.  
+
+**Link to work:** 
+HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day7_linkedList.py
