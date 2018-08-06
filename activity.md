@@ -164,3 +164,22 @@ Despite being able to grasp the concept well, I definitely feel like I need to k
 
 **Link to work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day7_linkedList.py
+
+
+
+### Day 8: August 6th, 2018
+
+**Today's Progress**:
+Kicked of Day 8 of the 100 Days of ML Challenge with more HackerRank.  Specifically, today I was working with exception handling.  The goal was to take a string input provided by HackerRank, convert the string to an integer, and print the converted value.  However, in a case where the value could not be converted, I printed "Bad String."
+
+Next, I spent some time on Dataquest's "Linear Algebra for Machine Learning" course.  Numpy's Linear Algebra (linalg) module was introduced, which makes things like calulating the determinant and inverse of a matrix MUCH quicker and easier than doing it by hand.
+
+I'll cap the day off with a little bit more Dataquest or Coursera's Google ML course.
+
+**Thoughts:** 
+Even as a more novice programmer, this was probably the easiest HackerRank challenge I've come across up to this point.  It was pretty refreshing after staring at linked lists and variable scope for the last couple days.
+
+It's great revisiting concepts related to Linear Algebra.  I've always enjoyed learning about mathematical topics, particularly Calculus and Linear Algebra.  I prefer a good optimization problem over a Sudoku or other puzzle most days.  
+
+**Link to work:** 
+HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day8_exceptionsStrToInt.py
