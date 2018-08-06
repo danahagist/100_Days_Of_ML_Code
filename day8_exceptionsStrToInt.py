@@ -4,11 +4,11 @@
 # Note: You must use the String-to-Integer and exception handling constructs built into your submission language. 
 # If you attempt to use loops/conditional statements, you will get a 0 score.
 
-# ----------------------------- Dataquest creates 'S' as input variable -----------------------------------------
+# ----------------------------- Dataquest creates 'S' as input variable ------------------------------------------
 
 S = input().strip()
 
-# -------------------------------------------- Solution ---------------------------------------------------------
+# -------------------------------------------- Solution ----------------------------------------------------------
 
 # This was the most simple solution that came to mind, and doesn't seem inefficient or difficult to understand.
 
@@ -21,6 +21,6 @@ except:
     # printing exception string when int(S) cannot be converted
     print('Bad String')
     
-# ------------------------------------------ End Solution ---------------------------------------------------------
+# ------------------------------------------ End Solution ----------------------------------------------------------
 
-# ------------------------------------------- End File ------------------------------------------------------------
+# ------------------------------------------- End File -------------------------------------------------------------
