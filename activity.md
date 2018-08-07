@@ -183,3 +183,28 @@ It's great revisiting concepts related to Linear Algebra.  I've always enjoyed l
 
 **Link to work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day8_exceptionsStrToInt.py
+
+
+
+### Day 9: August 7th, 2018
+
+**Today's Progress**:
+As has been the case for recent posts, got Day 9 of the 100 Days of ML Code Challenge started with HackerRank.  Today, extended the concept of Exception handling by throwing a custom error message when the parameters to a method do not meet certain criteria (being positive in this case).  
+
+Next, I finished Dataquest's "Linear Algebra for Machine Learning" course.  The end of the course talked about systems that have trivial solutions (zero vector), infinitely many solutions (linearly dependent equations) and no solutions.  The process for solving systems differs whether the matrix is rectangular (must use Gaussian elimination) or square (can use determinant and matrix inversion).  
+
+Link to Certificate: https://www.dataquest.io/view_cert/K7SKI4D947299HQAQ0I3/
+
+Next up was the start of the Linear Regression for Machine Learning course in Dataquest.  Having an Economics background, a lot of this is familiar territory to me.  The course starts with an intro to creating a Linear Regression in Python, and the goal of minimizing the Residual Sum of Squares.
+
+Finishing the day, as usual, with the Google Cloud / Coursera ML course.
+
+**Thoughts:** 
+The concept of creating classes and class inheritance is an integral piece of Object-Oriented Programming (OOP). And for those of us who don't have a CS background, and haven't had the pleasure of a professor beating this into our heads for months on end, it's a bit tricky to understand. It's a concept that I've gone back to time and time again, asking questions like, "What is this 'init' thing again? Why am I putting self in this class method? Wait, why am I torturing myself with this again?" (kidding on the last part).
+
+I re-read an article I had seen some time ago again today, from the following link: https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+
+The author gives a great breakdown of the intersection between Python as a language and OOP. Give it a read, if you're like me, and still working to solidify those concepts.
+
+**Link to work:** 
+HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day9_moreExceptions.py
