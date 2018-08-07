@@ -12,7 +12,7 @@
 class Calculator:
     # Creating class method
     def power(self, n, p):
-        if (n>0) and (p>0):
+        if (n>=0) and (p>=0):
             return n**p
         # Raising exception when n and p are not positive
         else:
