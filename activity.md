@@ -208,3 +208,24 @@ The author gives a great breakdown of the intersection between Python as a langu
 
 **Link to work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day9_moreExceptions.py
+
+
+
+### Day 10: August 8th, 2018
+
+**Today's Progress**:
+Once again, got Day 10 of the 100 Days of ML Code Challenge started with HackerRank.  Today, I  dug into Queues and Stacks, which are data structures.  One of the biggest differentiators between the two is that a stack's elements can only be manipulated by Last-In-First-Out (LIFO) and a queue's elements are manipulated by First-In-First-Out (FIFO).
+
+I did some extra reading to ensure I understood these concepts, and found this really useful article: https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b
+
+The following Python documentation I also found really useful: https://docs.python.org/2/tutorial/datastructures.html
+
+I spent a couple hours on the above this morning, working to wrap my head around how these data structures work and their implementation in Python.
+
+I'm also going to continue on with Dataquest's Linear Regression for Machine Learning course and the Google Cloud ML course on Coursera.
+
+**Thoughts:** 
+One thing I've been extremely thankful for is diving into these HackerRank challenges every morning.  Having been trained as an Economist, there are a number of Machine Learning concepts that come pretty naturally/ easily (optimization, minimizing errors, calculus, statistics, linear algebra, etc.).  However, something that most of us from Statistics and Economics backgrounds lack is the formal Data Structures and Algorithms training.  I feel I'm growing a lot by forcing myself to think through these things on a daily basis.  It's not a practice I plan on stopping.  Coupling this with the Data Science education I'm getting online seems to be a really good recipe for success.  Of course, there is a long way to go, but I'm feeling optimistic about all of it.
+
+**Link to work:** 
+HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day10_queuesAndStacks.py
