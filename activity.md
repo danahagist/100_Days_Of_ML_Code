@@ -229,3 +229,18 @@ One thing I've been extremely thankful for is diving into these HackerRank chall
 
 **Link to work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day10_queuesAndStacks.py
+
+
+
+### Day 11: August 9th, 2018
+
+**Today's Progress**:
+Day 11 of the 100 Days of Machine Learning Code Challenge started with more... you guessed it... HackerRank.  Today's challenge had to do with Interfaces.  An interface, in practice, is very similar to an Abstract Class (set of rules, specs, methods for related Classes to use).  However, after doing some digging, I realized that Interfaces are not really "a thing" in Python.  Python has the benefit of allowing multiple inheritance, which I understand is the primary use for Interfaces in say, Java.  As such, my solution really just involved implementing a class method "Calculator" (which was an instance of another class "Advanced Arithmetic").  Check out the link to the solution below in the "Link to work."
+
+It's probably also worth noting that for the last couple nights, I've been working through Coursera's Google ML course, which has been pretty awesome.  Learning about how such an incredible company with so much influence approaches Machine Learning is really beneficial.  I've seen course sections devoted to Machine Learning workflow, model bias (which surprisingly was being taught by my college roommate... REALLY COOL!), and last night, got to look at Qwiklabs, which is an IDE for analytics in Google Cloud.
+
+**Thoughts:** 
+Short on thoughts today, but ultimately, I'll just say that this challenge has been extremely fun and gratifying.  Getting to interact with the Data Science and Machine Learning communities, learning that there are so many other people out there who aim to change themselves in order to help change the world, I feel extremely thankful.  I can't wait to see how my skill set and network of similar-minded people evolves over the next 90 days.  Thank you to everybody who are out there, learning, contributing, and helping each other get better!
+
+**Link to work:** 
+HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day11_interfaces.py
