@@ -244,3 +244,32 @@ Short on thoughts today, but ultimately, I'll just say that this challenge has b
 
 **Link to work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day11_interfaces.py
+
+
+
+### Day 12: August 10th, 2018
+
+**Today's Progress**:
+Day 12's HackerRank challenge of the day had to do with bubble sort, a sorting algorithm that takes each item in an array, and if the next item is bigger, swaps the two.  The result is that each item "bubbles" to it's respective place in the array.  After each item is iterated through in this way, you have a sorted array.
+
+If you haven't seen it, check out this video of Eric Schmidt of Google asking Obama about which algorithm to use for a specific sorting problem (hint: it's not bubble sort):
+
+https://www.youtube.com/results?search_query=bubble+sort+obama
+
+I'm also going to work on more of the Linear Regression for Machine Learning course in Dataquest.
+
+**Thoughts:** 
+A topic that's come up quite a bit recently in posts, and in conversations with the Data Science community on LinkdeIn, is whether the focal point for the budding data scientist should be learning or doing.  That is, should you be focused on the knowledge acquisition or working on projects and building things. 
+
+This is something I think a lot about, and I know many of us struggle with where the balance should be.
+
+Here is how I'm approaching things....
+
+Currently, I'm focusing 90% on knowledge and 10% on projects.  I plan to continue this until I'm through all of the Dataquest material.  Reason being, I want to have a good foundational knowledge on which to lean.  Then, as I'm going through a project, I'm spending less time scratching my head, and more time referring back to things I've learned (or leveraging Stack Overflow and actually knowing what to ask).
+
+Once I finish Dataquest, I plan to switch gears and be closer to 50% knowledge and 50% projects.  More specifically, I will try to apply everything I'm learning to working with a dataset that I'm interested in and hopefully coming up with an ML "solution" to a problem.
+
+Over time, as I reach a good level of knowledge saturation, most of my efforts will be directed at projects, and I'll take courses primarily as refreshers or to learn things I haven't been exposed to.
+
+**Link to work:** 
+HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day12_bubbleSort
