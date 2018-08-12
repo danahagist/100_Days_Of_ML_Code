@@ -273,3 +273,20 @@ Over time, as I reach a good level of knowledge saturation, most of my efforts w
 
 **Link to work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day12_bubbleSort
+
+
+
+### Day 13: August 11th, 2018
+
+**Today's Progress**:
+Kicked today off on HackerRank learning about Generics.  Generics are a way that you can parameterize your datatypes in some programming languages, although it isn't particularly applicable to Python.  Reason being, Python is dynamically typed rather than statically typed.  In a statically typed language, you have to define the datatype of a variable.  Python determines the datatype for you by looking at the data with a paradigm called "duck typing," named based on the phrase "if it walks like a duck and quacks like a duck, it's a duck."  In order to get through to the next challenge, I looked at some of the Java solutions in the discussions and submitted one.
+
+Because I didn't get to work through a coding exercise on the above, I jumped into the next HackerRank challenge on Binary Search Trees (BST).  In a BST, the element in each left subtree is smaller than it's parent node, and the element in the right subtree is larger than the parent node.  You can see the tutorial here (https://www.hackerrank.com/challenges/30-binary-search-trees/tutorial) for a better understanding.  This is a really handy search algorithm that has wide-ranging applications, and is valuable as an efficient way to find out whether items are related, and the distance between them.
+
+I also spent some more time on Dataquest's Linear Regression for Machine Learning course, which I will hopefully be able to wrap up tomorrow.  The focus in this course today was on determining the appropriate features to include in your model, by understanding the correlation between the features and target variable, and across the features themselves.
+
+**Thoughts:** 
+Both of the HackerRank challenges above were really tough, and I did have to do some scouring of the discussions and StackOverflow to get an understanding of some of the ways to implement them.  Although it's frustrating to not grasp these concepts right off the bat sometimes, I acknowledge that self-teaching data structures and algorithms is challenging in and of itself.  If I keep at it, like anything else, these concepts will become more manageable over time.
+
+**Link to work:** 
+HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day13_binarySearchTrees.py
