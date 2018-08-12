@@ -290,3 +290,23 @@ Both of the HackerRank challenges above were really tough, and I did have to do 
 
 **Link to work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day13_binarySearchTrees.py
+
+
+
+### Day 14: August 12th, 2018
+
+**Today's Progress**:
+Today I worked on HackerRank's Day 23 (of 30 Days of Code challenge), involving Level-Order traversal.  Level-order traversal is where you start at the root of a binary tree, and traverse the tree by going to each of the child subtrees sequentially, from left to right (you visit each level of the tree in order).
+
+I also worked some on the Linear Regression for Machine Learning course in Dataquest.
+
+**Thoughts:** 
+Today was one of the first days that I legitimately could not figure out a solution to this problem.  Even on days where I've looked around at different approaches, I always want to make sure that I could get to the solution I'm leveraging in creating my own.  Today, unfortunately, was not one of those days.  As such, I'm not posting a solution until I can fully understand how it works.  
+
+I definitely feel like the last few days of the HackerRank challenges have tested my resilience and been a bit discouraging.  However, this is where the biggest gains come from.  The moment you have to tap into your grittiness to break through a perceived plateau is a great thing.  
+
+I'm going to keep reading through documentation on Queues, Binary Trees, and Level-Order Traversal until I understand these concepts.  I'm also going to try and leverage the community on LinkdeIn to see if I can find some good resources to help get over this hump.
+
+
+**Link to work:** 
+None today, unfortunately.
