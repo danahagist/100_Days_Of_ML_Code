@@ -307,6 +307,18 @@ I definitely feel like the last few days of the HackerRank challenges have teste
 
 I'm going to keep reading through documentation on Queues, Binary Trees, and Level-Order Traversal until I understand these concepts.  I'm also going to try and leverage the community on LinkdeIn to see if I can find some good resources to help get over this hump.
 
-
 **Link to work:** 
 None today, unfortunately.
+
+
+
+### Day 15: August 13th, 2018
+
+**Today's Progress**:
+Today I spent around an hour and a half looking at different resources on Binary Trees and Traversal methodologies.  All in all, I kept it light and am giving myself an opportunity to rest and reenergize.
+
+**Thoughts:** 
+Over the coming couple days, I'll spend some time each day learning more about Data Structures and trying to get over the hump of where I'm currently stuck.  I'll also focus more on the more Data-centric learning, rather than 
+
+**Link to work:** 
+None
