@@ -315,10 +315,12 @@ None today, unfortunately.
 ### Day 15: August 13th, 2018
 
 **Today's Progress**:
-Today I spent around an hour and a half looking at different resources on Binary Trees and Traversal methodologies.  All in all, I kept it light and am giving myself an opportunity to rest and reenergize.
+Today I spent around an hour and a half looking at different resources on Binary Trees and Traversal methodologies.  All in all, I kept it light and am giving myself an opportunity to rest and re-energize.
 
 **Thoughts:** 
-Over the coming couple days, I'll spend some time each day learning more about Data Structures and trying to get over the hump of where I'm currently stuck.  I'll also focus more on the more Data-centric learning, rather than 
+Over the coming couple days, I'll spend a little bit of time each day learning more about Data Structures and trying to get over the hump of where I'm currently stuck.  However, I'll focus more on the Data Science oriented learning, rather Computer Science.  Hopefully, giving my brain a chance to internalize the Data Structure material will help me connect with it in a way that I haven't been able to up to this point.  
+
+A lot of the above was advice from the Data Science community on LinkedIn, who have been awesome to get to know and are always supportive.  Thanks to all of those who offered said support.
 
 **Link to work:** 
 None
