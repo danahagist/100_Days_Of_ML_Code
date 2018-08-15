@@ -324,3 +324,16 @@ A lot of the above was advice from the Data Science community on LinkedIn, who h
 
 **Link to work:** 
 None
+
+
+
+### Day 16: August 14th, 2018
+
+**Today's Progress**:
+Today I did a little bit more work on the Coursera/ Google Cloud ML course, and spent some time learning about algorithms via Mike Bostock's post "Visualizing Algorithms."  Keeping this week a little bit lighter than normal, but acquiring knowledge either way.
+
+**Thoughts:** 
+It was really nice to take a bit of a break over the last couple days.  At times, it's easy to burn out and to forget that what we are doing in trying to learn new material can be hard.  And that's okay.  It's all about the perseverance to keep going, the humility to leverage resources in the community, and the curiosity that keeps you happy on the journey.  Sometimes it's probably useful to break things up, to seek out new answers in the greater journey toward learning Data Science.  And in the end, those things that feel like a struggle will likely present themselves in a more digestible manner.
+
+**Link to work:** 
+None, but definitely check out the following link, which is pretty helpful in understanding algorithms: https://bost.ocks.org/mike/algorithms/
