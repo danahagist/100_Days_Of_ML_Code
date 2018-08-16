@@ -337,3 +337,16 @@ It was really nice to take a bit of a break over the last couple days.  At times
 
 **Link to work:** 
 None, but definitely check out the following link, which is pretty helpful in understanding algorithms: https://bost.ocks.org/mike/algorithms/
+
+
+
+### Day 17: August 15th, 2018
+
+**Today's Progress**:
+Day 17 of the 100 Days of ML Code Challenge involved some more learning in Coursera's Google Cloud ML course.  Overall, some really intriguing and fun material.  The course demonstrated how you can use a high-powered virtual machine to do some of the heavy lifting for you, and then you can take a somewhat aggregated dataset and work with it in a hosted notebook environment (with a look and feel of Jupyter).  I worked through this workflow in a couple different labs, including one on hosting Earthquake data and another on analyzing flight delays.
+
+**Thoughts:** 
+It's interesting to see how advanced and/or modern technologies can make seemingly arduous tasks relatively simple.  Being exposed to the Google Cloud environment seems to be indicative of a soon-to-be world where Artificial Intelligence and Machine Learning solutions are not only ubiquitous in their accessibility, but are relatively easy to implement without formal training in these types of technologies.  It was a reminder of how much I enjoy this stuff, and that I don't "always" need to bog myself down in minutia.
+
+**Link to work:** 
+None
