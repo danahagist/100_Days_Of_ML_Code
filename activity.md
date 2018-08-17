@@ -371,3 +371,20 @@ As mentioned above, today I realized why I've struggled with a lot of the concep
 
 **Link to work:** 
 None
+
+
+
+### Day 19: August 17th, 2018
+
+**Today's Progress**:
+Today, I dug back into Dataquest's Data Science path, continuing the "Linear Regresssion for Machine Learning" course (see 'Link to work' below), diving into Gradient Descent and Ordinary Least Squares estimation.  This evening I'll get a bit more done in this course, with the hopes of finishing all except the Guided Project, which I'll tackle this weekend.
+
+To ensure I understood Gradient Descent, I read a couple articles to solidify the concepts:
+https://towardsdatascience.com/gradient-descent-simply-explained-1d2baa65c757
+https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/
+
+**Thoughts:** 
+Here we are, about 1/5th of the way through the 100 Days of ML Code Challenge.  One thing that's been great about the journey so far is that I've learned a lot about myself, my limitations, and generally have become a better programmer.  My hope is that toward the end of this challenge, I can really switch gears and start focusing more on project-related work, and build some cool stuff.  It's been extremely fun, challenging and really tested my persistence.  I'll finish the challenge better for it!
+
+**Link to work:** 
+None
