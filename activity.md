@@ -350,3 +350,24 @@ It's interesting to see how advanced and/or modern technologies can make seeming
 
 **Link to work:** 
 None
+
+
+
+### Day 18: August 16th, 2018
+
+**Today's Progress**:
+Today, I spent hours and hours and hours digging back into Binary Trees, reading different articles to understand their construction, how to print them, how to traverse them, and why the heck I was stuck.  When I realized that my major sticking point was certain recursive functions, that's where I went next.
+
+Below are a couple links I was digging into:
+
+https://www.tutorialspoint.com/python/python_tree_traversal_algorithms.htm
+
+https://www.tutorialspoint.com/python/python_binary_tree.html
+
+https://www.youtube.com/watch?v=aM-oswPn19o
+
+**Thoughts:** 
+As mentioned above, today I realized why I've struggled with a lot of the concepts around Binary Trees, and a lot of it has to do with them being a recursive structure.  Being from a non-Computer Science background, recursion can be a tricky concept to fully internalize.  Of course, there are cases where it's not particularly difficult, such as a factorial, summation, or even FizzBuzz, but when you're talking about traversing tree structures, where there are multiple recursive steps, I haven't quite had the "ah hah" moment.  I've taken in a lot of this information this week, and I think for the next few days I'll focus back on the Data Science material (Dataquest and Coursera/Google ML) and give that part of my brain a quick break.  Sunday or Monday I can get back into the weeds and try to dig myself out.
+
+**Link to work:** 
+None
