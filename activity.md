@@ -388,3 +388,21 @@ Here we are, about 1/5th of the way through the 100 Days of ML Code Challenge.  
 
 **Link to work:** 
 https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day19_housingLinearRegression.py
+
+
+
+### Day 20: August 18th, 2018
+
+**Today's Progress**:
+Today, I started out with Coursera/ Google's "How Google Does Machine Learning" course and completed that course. Here is the link to my certificate:
+https://www.coursera.org/account/accomplishments/verify/E79A49DSA8MX
+
+Then, I dove into the next course in the specialization, called "Launching into Machine Learning." I plan to spend another hour this evening working on this course, which is really interesting, and presented in a digestible way.
+
+I also played a little bit with Binary Tree Traversal Algorithms on a whiteboard for practice purposes.
+
+**Thoughts:** 
+Interestingly, although I've left the material on Binary Search Trees "somewhat alone" over the last few days, I've still found myself understanding them more and more with each passing day.  Yesterday, I bought a whiteboard so that I could practice writing out algorithms in an interview-esque setting.  Having heard advice from my fellow Data-Science folks on LinkdeIn about the Feynman technique (thanks Sanwal), I started thinking about these algorithms as if I had to teach them to someone else.  This has helped me immensely in understanding where I'm stuck and where my focus needs to be.  In case you're wondering, the slight sticking point right now is having a multiple recursive case algorithm where once the base case is satisfied, the output/return is feeding going back to the prior step (i.e. making it's way back up the tree).  In any event, I'm confident that the clicking moment is somewhere close, even if it feels just barely out of reach at the moment.
+
+**Link to work:** 
+None (but see link to certification above)
