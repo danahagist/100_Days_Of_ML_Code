@@ -387,4 +387,4 @@ https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/
 Here we are, about 1/5th of the way through the 100 Days of ML Code Challenge.  One thing that's been great about the journey so far is that I've learned a lot about myself, my limitations, and generally have become a better programmer.  My hope is that toward the end of this challenge, I can really switch gears and start focusing more on project-related work, and build some cool stuff.  It's been extremely fun, challenging and really tested my persistence.  I'll finish the challenge better for it!
 
 **Link to work:** 
-None
+https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day19_housingLinearRegression.py
