@@ -406,3 +406,16 @@ Interestingly, although I've left the material on Binary Search Trees "somewhat 
 
 **Link to work:** 
 None (but see link to certification above)
+
+
+
+### Day 21: August 19th, 2018
+
+**Today's Progress**:
+Today, I continued with Coursera/ Google's "Machine Learning with TensorFlow on Google Cloud Platform Specialization", specifically moving into the course "Launching into Machine Learning." Topics of the day included the history on a number of popular Machine Learning algorithms like decision trees, random forests, linear regression, perceptrons and neural networks.  Also, I looked at loss functions and gradient descent, as an alternative to Ordinary Least Squares when the data is too big (which would be computationally expensive).
+
+**Thoughts:** 
+I feel like I really got an opportunity today to solidify some concepts and have fun.  It's not always the case that these days of studying and learning are particularly enjoyable, so one thing I need to keep in mind is to seek balance (as in all things).  In other words, if I'm feeling really bogged down on a particular topic, I can leave that thing alone and dive into something else.  It's almost always easier to come back to something with a fresh mind rather than just trying to "stick it out" with a frustrated mind. The body of knowledge in this field is endless, so there's no use in sitting with a topic that isn't resonating with you at that moment.  
+
+**Link to work:** 
+None
