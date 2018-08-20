@@ -419,3 +419,17 @@ I feel like I really got an opportunity today to solidify some concepts and have
 
 **Link to work:** 
 None
+
+
+
+
+### Day 22: August 20th, 2018
+
+**Today's Progress**:
+Today, I continued on with Dataquest's course on "Linear Regression for Machine Learning."  I got through all of the learning material for the course.  Today's topics primarily included Ordinary Least Squares (as a way to minimize the loss function), Gradient Descent (when data is too big for OLS to be computationally feasible) and Processing and Transforming Features.  The Guided Project coming up is on "Predicting House Sale Prices," and I plan to dive into that this evening for a couple hours, making as much progress as I can.
+
+**Thoughts:** 
+I'm excited for this Guided Project and to work this Machine Learning solution from start to finish.  I've done quite a few Linear Regression analyses in R, but not thoroughly in Python.  All of the material at this point in the course is a lot of fun to work with, so I am able to approach each day with a strong sense of motivation and fulfillment.
+
+**Link to work:** 
+None, but will include Guided Project once that is complete.
