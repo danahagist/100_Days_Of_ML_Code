@@ -422,7 +422,6 @@ None
 
 
 
-
 ### Day 22: August 20th, 2018
 
 **Today's Progress**:
@@ -433,3 +432,22 @@ I'm excited for this Guided Project and to work this Machine Learning solution f
 
 **Link to work:** 
 None, but will include Guided Project once that is complete.
+
+
+
+### Day 23 and 24: August 21st and 22nd, 2018
+
+**Today's Progress**:
+I was unable to get my post up yesterday as I went to meet some friends in the early evening, but I did get a few hours of studying done!  Specifically, I finished up the "Linear Regression for Machine Learning" course on Dataquest.  Below is the link to my course certificate:
+
+https://www.dataquest.io/view_cert/87RUBZAQ0204KLVGT9JU/
+
+For the end of the course, I worked through a project using Linear Regression to predict house sale prices (see 'Link to work' below).
+
+Today, I'm starting Dataquest's "Machine Learning in Python: Intermediate" course.  It kicked off with Logistic Regression, another very commonly used algorithm for binary classification problems (0 or 1, True or False, Yes or No... you get the picture).  
+
+**Thoughts:** 
+Having taken a little break from the HackerRank challenges, it's been reinvigorating to enjoy focusing on Machine Learning and prediction problems.  However, I plan in the next couple days to get back to my algorithm and data structure training as well, which are so helpful for developing those problem-solving synapses in the brain.  Regardless, I'm learning so much and making this commitment to learning has helped immensely.  The journey continues, and things will only become more and more clear with more practice and iteration.
+
+**Link to work:** 
+Dataquest Project: https://dananomics.com/portfolio/predicting-house-sale-prices/
