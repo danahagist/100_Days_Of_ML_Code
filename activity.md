@@ -451,3 +451,19 @@ Having taken a little break from the HackerRank challenges, it's been reinvigora
 
 **Link to work:** 
 Dataquest Project: https://dananomics.com/portfolio/predicting-house-sale-prices/
+
+
+
+### Day 25: August 23rd, 2018
+
+**Today's Progress**:
+Day 25, a quarter of the way through the challenge!  Got the day started with some HackerRank.  Because I was having a little bit of a hard time with the Binary Search Tree(BST) Level-Order Traversal, I decided to go back to some basic tutorials and keep building on my knowledge.  After all, a complex algorithm is usually just a collection of more simple principles.  That said, I started with the first Algorithm Challenge, which was to have a function return the sum of an array... Hint: return sum(array).  Then, I signed up for HackerRank's 10 Days of Statistics Challenge and completed Day 1: Mean, Median and Mode.  I did get a little bit stuck on one of the hidden test cases, so I submitted my code to the discussion boards to try and figure out what I am doing wrong.  Having taken a shortcut and using Pandas to look for the correct answer, I believe the issue is actually the stored solution in HackerRank, and not something I'm doing wrong.  I also got into a second part of the 10 Days of Statistics Challenges, calculating weighted means.  This was a bit easier than the first challenge.  Links to both are below in 'Link to Work" section.
+
+Next, I'm diving back into Dataquest's "Machine Learning in Python: Intermediate" course.  I will try to make some good headway on this course today, where we are looking at how you can determine accuracy of a Logistic Regression model.
+
+**Thoughts:** 
+Today has been good from a learning standpoint so far, and has highlighted something that I think is important for me to remember when I'm on a lifelong learning journey (starting with these 100 days, plus... all the work I've done up to this point).  That is, it's okay when you're learning and practicing to go back to those things that you might already be good at.  As you revert to topics that resonate more strongly with you, you are strengthening the core skills you will need to tackle more advanced topics.  It can be challenging at times to break through certain barriers, especially when you're standing at that proverbial brick wall and trying to knock it over without momentum.  But, you can take a step back, train your mind, create some momentum, and hit that wall with a renewed sense of force.  If nothing else, letting yourself enjoy the process will keep you motivated.
+
+**Link to Work:** 
+HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day25_meanMedianMode.py
+HackerRank (Part 2): https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day25_weightedMean.py
