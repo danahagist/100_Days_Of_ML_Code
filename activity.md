@@ -467,3 +467,19 @@ Today has been good from a learning standpoint so far, and has highlighted somet
 **Link to Work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day25_meanMedianMode.py
 HackerRank (Part 2): https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day25_weightedMean.py
+
+
+
+
+### Day 26: August 24th, 2018
+
+**Today's Progress**:
+I started Day 26 off with "Day 1" of HackerRank's "10 Days of Statistics" Challenge.  The challenge involved finding the quartiles of an array of integers (without using Numpy or other Python packages).  It was a pretty good challenge that was helpful in reinforcing the modulus and floor division operators, which you see come up again and again in computer science.  See link to my solution below in the "Link to Work" section.
+
+Next, I'll be diving back into Dataquest's "Machine Learning in Python: Intermediate" course.
+
+**Thoughts:** 
+Short on thoughts today, but I'm going to keep on grinding through and hoping to have a good, productive weekend.  I would love nothing more than to get 6-8 hours of coursework in this weekend.  As I wind these courses down, I'm very much looking forward to getting back into some projects!
+
+**Link to Work:** 
+HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day26_quartiles.py
