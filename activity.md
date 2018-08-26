@@ -496,3 +496,22 @@ Marketing analytics is everywhere!  If you look at some of the most common anal
 
 **Link to Work:** 
 None
+
+
+
+### Day 28: August 26th, 2018
+
+**Today's Progress**:
+Here we are, Day 28, which continued with lots and lots more of the Udacity course on A/B Testing at the following link:
+
+https://www.udacity.com/course/ab-testing--ud257
+
+This was a very thorough course, covering a lot of useful content.  Seeing as how I haven't had to dig into a z-score table in a little while, I'll consider that a win (being slightly sarcastic)!  In reality, the course is great.  It talked about all of the steps you would go through to conduct an A/B test and many considerations including your sample size, ethics, and when it would make sense to make a business recommendation based on your results.  After all, if you're 99% confident the change is statistically significant, but it won't have a tangible (of acceptable magnitude) impact to the business, is it really worth it?!
+
+The plan was to be able to put together a project today, but I fear it may have to wait until tomorrow, as I've probably spent a total of 10 hours or so this weekend going through this material, and I could use a little relaxation and time spent with my wife!
+
+**Thoughts:** 
+Made a lot of progress today, and this was my first prolonged exposure to Udacity curriculum.  I have to say, the delivery was really good, practical, and easy to follow.  If I had to guess, their AB testing is on point!  I look forward tomorrow to digging in to this a little bit more, creating some guidelines about A/B Testing that I can refer back to, and working through the project (hopefully in generalized form that I can continue to use and refine for future projects).
+
+**Link to Work:** 
+None
