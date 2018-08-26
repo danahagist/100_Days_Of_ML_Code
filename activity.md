@@ -483,3 +483,16 @@ Short on thoughts today, but I'm going to keep on grinding through and hoping to
 
 **Link to Work:** 
 HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day26_quartiles.py
+
+
+
+### Day 27: August 25th, 2018
+
+**Today's Progress**:
+Today, I switched gears quite a bit and spent most of the day (around 5 hours) working with A/B Testing on a Udacity course at the following link: https://www.udacity.com/course/ab-testing--ud257.  I plan to finish up the course tomorrow, perform a thorough review, and complete a project (two would be even better).
+
+**Thoughts:** 
+Marketing analytics is everywhere!  If you look at some of the most common analytics jobs that are posted, they often involve using Analytics and Machine Learning to support marketing teams.  Furthermore, in that domain, there are a few skills that pop up continuously to be successful in that type of role.   They include A/B Testing, working with survey data, and having a firm grasp of inferential statistics in order to deliver insights.  One thing I've realized is that I don't get the opportunity to work with this type of data very often in my professional environment, so I really want to continue trying to round out my skill set and develop this area.  It's evident to me that the most successful Data Scientists continuously look to expand their knowledge and apply what they know to new domains.  I plan to be no different.
+
+**Link to Work:** 
+None
