@@ -515,3 +515,19 @@ Made a lot of progress today, and this was my first prolonged exposure to Udacit
 
 **Link to Work:** 
 None
+
+
+
+### Day 29: August 27th, 2018
+
+**Today's Progress**:
+Alright, alright... what a whirlwind the last few days has been.  Because I really wanted to get through Udacity's course on A/B Testing, my hour a day of studying commitment turned into around 6 hours on average.  It was an absolute grind, but gratifying nonetheless. 
+The ultimate "deliverable" as a result of my 18 hours of study is a thorough article I wrote on A/B testing, as well as a working example in Python (Udacity's final project from the course).  
+Please check both out here:
+https://dananomics.com/ab-testing/
+
+**Thoughts:** 
+I really had to test my resolve to get through all of this content the last few days, but it feels great to have accomplished what I did.  One of the things I found the most intriguing about studying A/B Testing is how applicable and versatile it is in optimizing a product.  Whether you have a website, or a restaurant, or any other "thing" that people consume, A/B Testing is a great way to iterate and move it in a positive direction.  For all of those who are passionate about finding a career or connecting on LinkedIn, you could definitely do it there as well by experimenting with different content or layouts.  After all, the experimentation on your profile in order to pursue that new career, might just be the demonstrable experience you need to... well... get you that new career.  
+
+**Link to Work:** 
+See link to my article above
