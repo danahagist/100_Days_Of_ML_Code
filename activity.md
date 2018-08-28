@@ -527,7 +527,29 @@ Please check both out here:
 https://dananomics.com/ab-testing/
 
 **Thoughts:** 
-I really had to test my resolve to get through all of this content the last few days, but it feels great to have accomplished what I did.  One of the things I found the most intriguing about studying A/B Testing is how applicable and versatile it is in optimizing a product.  Whether you have a website, or a restaurant, or any other "thing" that people consume, A/B Testing is a great way to iterate and move it in a positive direction.  For all of those who are passionate about finding a career or connecting on LinkedIn, you could definitely do it there as well by experimenting with different content or layouts.  After all, the experimentation on your profile in order to pursue that new career, might just be the demonstrable experience you need to... well... get you that new career.  
+I really had to test my resolve to get through all of this content the last few days, but it feels great to have accomplished what I did.  One of the things I found the most intriguing about studying A/B Testing is how applicable and versatile it is in optimizing a product.  Whether you have a website, or a restaurant, or any other "thing" that people consume, A/B Testing is a great way to iterate and move it in a positive direction.  For all of those who are passionate about finding a career or connecting on LinkedIn, you could definitely do it there as well by experimenting with different content or layouts.  Although you may not be able to conduct a true "split test," on your social media profiles, you can still do meaningful test for practical and statistical significance of a metric after a change.  The experimentation on your profile you're doing in order to pursue that new career, might just be the demonstrable experience you need to... well... get you that new career.  
 
 **Link to Work:** 
 See link to my article above
+
+
+
+### Day 30: August 28th, 2018
+
+**Today's Progress**:
+After the last few days of grinding, I'm going to give myself a little bit of a rest today and just doing some Python language refreshing and solidifying by working on HackerRank's Python Language Proficiency.  
+
+Here is a list of the problems I got through:
+1. https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+2. https://www.hackerrank.com/challenges/python-division/problem?h_r=next-challenge&h_v=zen
+3. https://www.hackerrank.com/challenges/python-loops/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+4. https://www.hackerrank.com/challenges/write-a-function/problem - On this challenge, I continued to try and use floor division rather than the modulo operator for quite a few minutes, which was a lot of fun (just kidding, it was not).
+5. https://www.hackerrank.com/challenges/python-print/problem - Picked up a little something new using the end parameter in the print function (which allows you to change from the default newline to something different, such as a space, comma, etc.)
+6. https://www.hackerrank.com/challenges/decorators-2-name-directory/problem
+
+
+**Thoughts:** 
+After putting together my thorough write-up and project on A/B Testing, today I hit the highest number of website views and visitors that I have up to this point.  This reinforces a certain message I see popping up again and again on social media... that is, you get out what you put in.  It's a great feeling to know that people are looking at (and hopefully benefiting from) something you created.   
+
+**Link to Work:** 
+Links to challenges are above, but most were simple enough to not warrant creating and saving a script for them.
