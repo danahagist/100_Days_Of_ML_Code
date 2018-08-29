@@ -553,3 +553,23 @@ After putting together my thorough write-up and project on A/B Testing, today I 
 
 **Link to Work:** 
 Links to challenges are above, but most were simple enough to not warrant creating and saving a script for them.
+
+
+
+### Day 31: August 29th, 2018
+
+**Today's Progress**:
+Today, I kicked things off with my morning routine of HackerRank challenges. One had to do with if-else statements in Python, and the second built on an earlier quartile challenge to find the interquartile range. These two challenges are listed below:
+
+1. https://www.hackerrank.com/challenges/py-if-else/problem
+2. https://www.hackerrank.com/challenges/s10-interquartile-range/problem
+
+Next, I dug back into the Dataquest Machine Learning material, starting with "Multiclass Classification."
+
+
+**Thoughts:** 
+Not a whole lot in terms of thoughts today, back to the routine of learning and growing.  The plate is getting a little bit overloaded with different content and material I'm learning, so it's time to clear some of that up.
+
+**Link to Work:** 
+1. https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day31_ifElse.py
+2. https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day31_interquartileRange.py
