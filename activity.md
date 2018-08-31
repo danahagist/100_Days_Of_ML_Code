@@ -547,7 +547,6 @@ Here is a list of the problems I got through:
 5. https://www.hackerrank.com/challenges/python-print/problem - Picked up a little something new using the end parameter in the print function (which allows you to change from the default newline to something different, such as a space, comma, etc.)
 6. https://www.hackerrank.com/challenges/decorators-2-name-directory/problem
 
-
 **Thoughts:** 
 After putting together my thorough write-up and project on A/B Testing, today I hit the highest number of website views and visitors that I have up to this point.  This reinforces a certain message I see popping up again and again on social media... that is, you get out what you put in.  It's a great feeling to know that people are looking at (and hopefully benefiting from) something you created.   
 
@@ -565,7 +564,6 @@ Today, I kicked things off with my morning routine of HackerRank challenges. One
 2. https://www.hackerrank.com/challenges/s10-interquartile-range/problem
 
 Next, I dug back into the Dataquest Machine Learning material, starting with "Multiclass Classification."
-
 
 **Thoughts:** 
 Not a whole lot in terms of thoughts today, back to the routine of learning and growing.  The plate is getting a little bit overloaded with different content and material I'm learning, so it's time to clear some of that up.
@@ -592,9 +590,31 @@ Here are a list of the challenges I completed:
 9. https://www.hackerrank.com/challenges/weather-observation-station-4/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 10. https://www.hackerrank.com/challenges/weather-observation-station-5/problem - I had a long, crazy solution to this problem, and then realized that two of my sub-queries were the answer, so I deleted the other half page of query.
 
-
 **Thoughts:** 
 Always nice to work with a technology that you see on a daily basis and sharpen those skills a little bit.  Today I worked through quite a few challenges that made me think outside the box and definitely challenged me a bit.  Just like any other day, I'm simply going to keep going, keep learning and keep growing.  For the next couple weeks, I'll likely continue sharpening my skills around SQL as well as quantitative analysis and statistics; also would really would love to finish up Dataquest!
 
 **Link to Work:** 
 1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day32_weatherObservationStation5.sql
+
+
+
+### Day 33: August 31st, 2018
+
+**Today's Progress**:
+Today, for my HackerRank practice, I continued working through more of the SQL challenges.
+
+Here are a list of the HackerRank challenges I completed:
+1. https://www.hackerrank.com/challenges/weather-observation-station-6/problem
+2. https://www.hackerrank.com/challenges/weather-observation-station-7/problem?h_r=next-challenge&h_v=zen
+3. https://www.hackerrank.com/challenges/weather-observation-station-8/problem
+
+I also read the following documentation in order to refresh on regular expressions in SQL:
+1. https://docs.oracle.com/cd/B13789_01/appdev.101/b10795/adfns_re.htm
+2. https://www.techonthenet.com/oracle/regexp_like.php
+3. https://docs.oracle.com/cd/B13789_01/server.101/b10759/conditions018.htm#SQLRF00501
+
+**Thoughts:** 
+Something that today is highlighting for me, is how helpful this daily practice is for highlighting things that need to be refreshed. An example is that I was working on the first SQL exercise today, where I used a somewhat "brute force" solution to the problem (pretty simple this way), but there is a much more elegant solution in using regular expressions (regex).  However, I very rarely come across using regex functions, so this highlighted for me the need to dig back into this topic, both in SQL and likely in Python as well.  
+
+**Link to Work:** 
+None
