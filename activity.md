@@ -573,3 +573,28 @@ Not a whole lot in terms of thoughts today, back to the routine of learning and 
 **Link to Work:** 
 1. https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day31_ifElse.py
 2. https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day31_interquartileRange.py
+
+
+
+### Day 32: August 30th, 2018
+
+**Today's Progress**:
+Today, for my HackerRank practice, I started working through some of the SQL challenges.
+Here are a list of the challenges I completed:
+1. https://www.hackerrank.com/challenges/revising-the-select-query/problem
+2. https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?h_r=next-challenge&h_v=zen
+3. https://www.hackerrank.com/challenges/select-all-sql/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+4. https://www.hackerrank.com/challenges/select-by-id/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+5. https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
+6. https://www.hackerrank.com/challenges/japanese-cities-name/problem?h_r=next-challenge&h_v=zen
+7. https://www.hackerrank.com/challenges/weather-observation-station-1/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+8. https://www.hackerrank.com/challenges/weather-observation-station-3/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen - This was a cool challenge as I got to work with the modulus operator in Oracle SQL for the first time
+9. https://www.hackerrank.com/challenges/weather-observation-station-4/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+10. https://www.hackerrank.com/challenges/weather-observation-station-5/problem - I had a long, crazy solution to this problem, and then realized that two of my sub-queries were the answer, so I deleted the other half page of query.
+
+
+**Thoughts:** 
+Always nice to work with a technology that you see on a daily basis and sharpen those skills a little bit.  Today I worked through quite a few challenges that made me think outside the box and definitely challenged me a bit.  Just like any other day, I'm simply going to keep going, keep learning and keep growing.  For the next couple weeks, I'll likely continue sharpening my skills around SQL as well as quantitative analysis and statistics; also would really would love to finish up Dataquest!
+
+**Link to Work:** 
+1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day32_weatherObservationStation5.sql
