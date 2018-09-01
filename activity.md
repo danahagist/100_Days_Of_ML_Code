@@ -618,3 +618,27 @@ Something that today is highlighting for me, is how helpful this daily practice 
 
 **Link to Work:** 
 None
+
+
+
+### Day 34: September 1st, 2018
+
+**Today's Progress**:
+Today, I dug back into the HackerRank challenges with some SQL practice.  
+
+Here are a list of the HackerRank challenges I completed:
+1. https://www.hackerrank.com/challenges/the-pads/problem
+2. https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem
+3. https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?h_r=next-challenge&h_v=zen
+4. https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+5. https://www.hackerrank.com/challenges/average-population/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen - When converting a number to an integer (not rounding, but keeping only the integer part), can use the FLOOR or CAST(number AS INT)
+
+
+I read the following documentation in order to refresh on the CONCAT operator in Oracle SQL (I had forgotten that it only took up to 2 arguments, so any more and you have to nest your CONCATs):
+1. https://www.techonthenet.com/oracle/functions/concat.php
+
+**Thoughts:** 
+Well, hello September!  It's hard to imagine that Fall is upon us, and I'm a third of the way through this challenge.  Keeping things a little bit light today, as it's time to give myself a bit of a break, enjoy being home in California with friends, and do some wine tasting.  Expecting to get back to the heavy study this week, and get some progress on the Dataquest material.
+
+**Link to Work:** 
+None
