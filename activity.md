@@ -633,7 +633,6 @@ Here are a list of the HackerRank challenges I completed:
 4. https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 5. https://www.hackerrank.com/challenges/average-population/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen - When converting a number to an integer (not rounding, but keeping only the integer part), can use the FLOOR or CAST(number AS INT)
 
-
 I read the following documentation in order to refresh on the CONCAT operator in Oracle SQL (I had forgotten that it only took up to 2 arguments, so any more and you have to nest your CONCATs):
 1. https://www.techonthenet.com/oracle/functions/concat.php
 
@@ -648,19 +647,23 @@ None
 ### Day 35: September 3rd, 2018
 
 **Today's Progress**:
-Had to miss a day yesterday, as I was at home with friends and family, and didn't have the opportunity to get my laptop opened (which is probably a great thing.  Today, I started as I usually do, with some HackerRank work in SQL.
+Had to miss a day yesterday, as I was at home with friends and family, and didn't have the opportunity to get my laptop opened (which is probably a great thing).  Today, I started as I usually do, with some HackerRank work in SQL.  I'm also looking at some "Cracking the Coding Interview" type of questions to keep those fresh as well.
 
 Here are a list of the HackerRank challenges I completed:
 1. https://www.hackerrank.com/challenges/earnings-of-employees/problem
 2. https://www.hackerrank.com/challenges/weather-observation-station-2/problem
 3. https://www.hackerrank.com/challenges/weather-observation-station-13/problem
-
+4. https://www.hackerrank.com/challenges/weather-observation-station-14/problem?h_r=next-challenge&h_v=zen
+5. https://www.hackerrank.com/challenges/weather-observation-station-15/problem
+6. https://www.hackerrank.com/challenges/weather-observation-station-16/problem?h_r=next-challenge&h_v=zen
+7. https://www.hackerrank.com/challenges/weather-observation-station-17/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+8. https://www.hackerrank.com/challenges/weather-observation-station-18/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 I read the following documentation in order to refresh on the TRUNC operator:
 https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions200.htm
 
 **Thoughts:** 
-...
+Squeezing this in on a train from Sacramento to Oakland today.  Not always easy to make time for these commitments, but similarly gratifying to the overall learning experience of the 100 Days of ML Code challenge is the part about challenging yourself internally, exercising grittiness, and doing my best to show up each day.  Although yesterday it wasn't feasible to break away for an hour, it's good to get some in today.  
 
 **Link to Work:** 
 None
