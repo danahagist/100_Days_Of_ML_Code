@@ -642,3 +642,25 @@ Well, hello September!  It's hard to imagine that Fall is upon us, and I'm a thi
 
 **Link to Work:** 
 None
+
+
+
+### Day 35: September 3rd, 2018
+
+**Today's Progress**:
+Had to miss a day yesterday, as I was at home with friends and family, and didn't have the opportunity to get my laptop opened (which is probably a great thing.  Today, I started as I usually do, with some HackerRank work in SQL.
+
+Here are a list of the HackerRank challenges I completed:
+1. https://www.hackerrank.com/challenges/earnings-of-employees/problem
+2. https://www.hackerrank.com/challenges/weather-observation-station-2/problem
+3. https://www.hackerrank.com/challenges/weather-observation-station-13/problem
+
+
+I read the following documentation in order to refresh on the TRUNC operator:
+https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions200.htm
+
+**Thoughts:** 
+...
+
+**Link to Work:** 
+None
