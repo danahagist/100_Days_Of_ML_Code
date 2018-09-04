@@ -667,3 +667,20 @@ Squeezing this in on a train from Sacramento to Oakland today.  Not always easy 
 
 **Link to Work:** 
 None
+
+
+
+### Day 36: September 4th, 2018
+
+**Today's Progress**:
+For Day 36, I kicked things off with the course on "Multiclass Classification" with Dataquest, and made it through to the course on "Overfitting."
+
+Also, read a couple pieces of documentation on Python (Pandas) methods including:
+1. http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.idxmax.html
+2. https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.drop.html
+
+**Thoughts:** 
+Seeing as how I'm still on vacation, I'm posting now to enjoy my time at home with friends for the rest of the day.  Will pick up more material tomorrow, time permitting.
+
+**Link to Work:** 
+None
