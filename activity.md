@@ -684,3 +684,17 @@ Seeing as how I'm still on vacation, I'm posting now to enjoy my time at home wi
 
 **Link to Work:** 
 None
+
+
+
+### Day 37: September 5th, 2018
+
+**Today's Progress**:
+Today, I kicked things off with a little bit of HackerRank SQL work, including the following challenge:
+1. https://www.hackerrank.com/challenges/what-type-of-triangle/problem
+
+**Thoughts:** 
+Another light day today, as I went into the city of San Francisco for some quality time with my wife and some good food!
+
+**Link to Work:** 
+None
