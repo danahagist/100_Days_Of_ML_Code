@@ -698,3 +698,24 @@ Another light day today, as I went into the city of San Francisco for some quali
 
 **Link to Work:** 
 None
+
+
+
+### Day 38: September 6th, 2018
+
+**Today's Progress**:
+Continued on today with more SQL HackerRank challenges, and getting into some of the more challenging ones (see #4, which I'm still working through).
+1. https://www.hackerrank.com/challenges/asian-population/problem
+2. https://www.hackerrank.com/challenges/african-cities/problem?h_r=next-challenge&h_v=zen
+3. https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+4. https://www.hackerrank.com/challenges/occupations/problem
+
+I also read documentation on the following functions:
+1. https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions137.htm
+2. https://www.techonthenet.com/oracle/pivot.php
+
+**Thoughts:** 
+Definitely learning more as I dive into some of these challenges that are really meant to test you.  I haven't worked as much with the Pivot and Row_Number functions, so I spent some time brushing up on those.
+
+**Link to Work:** 
+None
