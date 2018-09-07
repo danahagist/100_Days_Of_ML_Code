@@ -719,3 +719,24 @@ Definitely learning more as I dive into some of these challenges that are really
 
 **Link to Work:** 
 None
+
+
+
+### Day 39: September 7th, 2018
+
+**Today's Progress**:
+Started today working with and really trying to understand the working pieces of the following HackerRank challenge:
+https://www.hackerrank.com/challenges/occupations/problem
+
+I've included a link to my work below with comments explaining how it works.
+
+Also worked on the following challenge:
+https://www.hackerrank.com/challenges/s10-standard-deviation/problem
+
+**Thoughts:** 
+Still on vacation until this Sunday, so knocked out my hour this morning, and will enjoy the day in my hometown of Santa Cruz, CA.
+
+**Link to Work:** 
+1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day39_occupations.sql
+2. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day39_standardDeviation.py
+
