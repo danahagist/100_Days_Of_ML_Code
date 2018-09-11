@@ -745,17 +745,17 @@ Still on vacation until this Sunday, so knocked out my hour this morning, and wi
 ### Day 40: September 10th, 2018
 
 **Today's Progress**:
-Had to take a couple days away while I was spending time with friends and family, but back on it today and going to get some good studying and production done.  I started things off with 2 Lesson's (plan on getting through more tonight) from Udacity's Intro to Statistics course, at the following link:
+Had to take a couple days away while I was spending time with friends and family, but back on it today and going to get some good studying and production done.  I started things off with 2 Lessons from Udacity's "Intro to Statistics" course, at the following link:
 https://classroom.udacity.com/courses/st101
 
-Then, I worked on some of the HackerRank "10 Days of Statistics" challenges, including the following:
-https://www.hackerrank.com/challenges/s10-mcq-1/tutorial
-
+Then, I worked on some of the HackerRank "10 Days of Statistics" challenges, including finishing the following (Day 2):
+1. https://www.hackerrank.com/challenges/s10-mcq-1/tutorial
+2. https://www.hackerrank.com/challenges/s10-mcq-2/problem
+3. https://www.hackerrank.com/challenges/s10-mcq-3/problem
 
 
 **Thoughts:** 
-....
+Nice to be back on the grind today.  Although it was a busy day and I didn't get the few hours I would have liked (probably got two hours of studying), I'll be back at it again tomorrow and will get my consistency back going forward.
 
 **Link to Work:** 
-1. 
-
+None
