@@ -740,3 +740,22 @@ Still on vacation until this Sunday, so knocked out my hour this morning, and wi
 1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day39_occupations.sql
 2. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day39_standardDeviation.py
 
+
+
+### Day 40: September 10th, 2018
+
+**Today's Progress**:
+Had to take a couple days away while I was spending time with friends and family, but back on it today and going to get some good studying and production done.  I started things off with 2 Lesson's (plan on getting through more tonight) from Udacity's Intro to Statistics course, at the following link:
+https://classroom.udacity.com/courses/st101
+
+Then, I worked on some of the HackerRank "10 Days of Statistics" challenges, including the following:
+https://www.hackerrank.com/challenges/s10-mcq-1/tutorial
+
+
+
+**Thoughts:** 
+....
+
+**Link to Work:** 
+1. 
+
