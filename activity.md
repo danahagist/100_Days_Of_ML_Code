@@ -759,3 +759,36 @@ Nice to be back on the grind today.  Although it was a busy day and I didn't get
 
 **Link to Work:** 
 None
+
+
+
+### Day 41: September 11th, 2018
+
+**Today's Progress**:
+Today I'm going to try a strategy to keep different skills building simultaneously and see how I like it.  Namely, I'm going to be working on the Udacity "Intro to Statistics" course, HackerRank Challenges (Statistics/SQL/Python), Udacity's "SQL for Data Analysis" course, and Udacity's "Intro to Data Analysis" Course.  Below are the links to each and some bullets on what I was able to cover
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Different types of visualizations (scatter plot, bar chart, histogram, pie chart)
+HackerRank: https://www.hackerrank.com/
+- Probability
+- Binomial Distributions
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- Review of Basic SQL clauses
+- Review of Joins, Database Normalization, Primary and Foreign Keys
+Udacity Intro to Data Analysis: https://classroom.udacity.com/courses/ud170
+- The data analysis process (question, wrangle, explore, draw conclusions, communicate)
+- Coming up with meaningful questions about your data
+- Data wrangling and cleaning (reading in csv file, changing data types, investigating the data, etc.)
+
+Below are links to the HackerRank challenges I completed:
+1. https://www.hackerrank.com/challenges/s10-mcq-4/problem
+2. https://www.hackerrank.com/challenges/s10-mcq-5/problem
+3. https://www.hackerrank.com/challenges/s10-mcq-6/problem
+4. https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem
+5. https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem
+
+**Thoughts:** 
+I have spent probably 6 hours staring at this lovely computer screen today on top of a full day of work, so it's time to hang it up.  Overall, really good day of production and studying.  It's NEVER a bad idea to go back to basics and get refreshed on all those statistical concepts, SQL concepts, etc. that have gotten you to where you are today.  I'm going to spend the rest of this week going through this material, and will jump back into Dataquest and the Coursera Google ML course next week.
+
+**Link to Work:** 
+None
