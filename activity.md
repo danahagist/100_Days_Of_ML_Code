@@ -798,24 +798,17 @@ None
 ### Day 42: September 12th, 2018
 
 **Today's Progress**:
-Today I'm sticking with the same strategy as I did yesterday.  Namely, I'm going to be working on the Udacity "Intro to Statistics" course, HackerRank Challenges (Statistics/SQL/Python), Udacity's "SQL for Data Analysis" course, and Udacity's "Intro to Data Analysis" Course.  Below are the links to each and some bullets on what I was able to cover
+Today I'm sticking with the same strategy as I did yesterday, although didn't have quite as much time to study.  I did get approximately two hours in.  I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course. Below are the links to each and some bullets on what I was able to cover:
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Admissions Case Study (Simpson's Paradox)
 - Problem Set 1 (Understanding Visualizations)
-- Probability
-HackerRank: https://www.hackerrank.com/
--
+- Probability (Independent and Conditional)
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
--
-Udacity Intro to Data Analysis: https://classroom.udacity.com/courses/ud170
--
-
-Below are links to the HackerRank challenges I completed:
-1. 
+- Primary-Foreign Key Relationships
 
 **Thoughts:** 
-I have spent probably 6 hours staring at this lovely computer screen today on top of a full day of work, so it's time to hang it up.  Overall, really good day of production and studying.  It's NEVER a bad idea to go back to basics and get refreshed on all those statistical concepts, SQL concepts, etc. that have gotten you to where you are today.  I'm going to spend the rest of this week going through this material, and will jump back into Dataquest and the Coursera Google ML course next week.
+Another productive day working with statistics and SQL.  It's great refreshing some of these concepts that come up again and again in analytics and computer science.  Statistics and probability are great foundational skills to have and are also great for flexing your problem-solving ability.  
 
 **Link to Work:** 
 None
