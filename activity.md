@@ -818,7 +818,7 @@ None
 ### Day 43: September 13th, 2018
 
 **Today's Progress**:
-Today I'm sticking with the same strategy as I did yesterday, although didn't have quite as much time to study.  I did get approximately two hours in.  I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course. Below are the links to each and some bullets on what I was able to cover:
+Again, I stuck with the same strategy as I did yesterday, and got about four hours of studying in.  I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course. Below are the links to each and some bullets on what I was able to cover:
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Conditional Probability, continued
@@ -827,8 +827,9 @@ Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 - Multiple-Table Joins
 - Aliases
 - Outer Joins
-**Thoughts:** 
-... 
+
+**Thoughts:***
+Today was pretty fun and interesting refreshing on conditional probability, Bayes Theorem, and concepts around SQL joints.  Admittedly, I had struggled a little bit in the past with some of these probability concepts, but they seemed quite a bit more digestible today.  
 
 **Link to Work:** 
 None
