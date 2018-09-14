@@ -812,3 +812,23 @@ Another productive day working with statistics and SQL.  It's great refreshing s
 
 **Link to Work:** 
 None
+
+
+
+### Day 43: September 13th, 2018
+
+**Today's Progress**:
+Today I'm sticking with the same strategy as I did yesterday, although didn't have quite as much time to study.  I did get approximately two hours in.  I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course. Below are the links to each and some bullets on what I was able to cover:
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Conditional Probability, continued
+- Bayes Rule
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- Multiple-Table Joins
+- Aliases
+- Outer Joins
+**Thoughts:** 
+... 
+
+**Link to Work:** 
+None
