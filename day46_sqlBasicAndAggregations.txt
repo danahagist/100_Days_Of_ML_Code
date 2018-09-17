@@ -1,0 +1,247 @@
+SQL for Data Analysis Practice
+Below are a number of questions and answers from the Udacity "SQL for Data Analysis" course, covering a wide range of topics.
+
+
+Quiz: JOIN Questions Part I
+
+1. Provide a table for all web_events associated with account name of Walmart. There should be three columns. Be sure to include the primary_poc, time of the event, and the channel for each event. Additionally, you might choose to add a fourth column to assure only Walmart events were chosen. 
+
+select accounts.name, accounts.primary_poc, web_events.occurred_at, web_events.channel
+from web_events
+join accounts 
+on web_events.account_id = accounts.id
+where name = 'Walmart';
+
+2. Provide a table that provides the region for each sales_rep along with their associated accounts. Your final table should include three columns: the region name, the sales rep name, and the account name. Sort the accounts alphabetically (A-Z) according to account name.
+
+select region.name, sales_reps.name, accounts.name
+from sales_reps
+join region 
+on sales_reps.region_id = region.id
+join accounts 
+on accounts.sales_rep_id = sales_reps.id
+order by accounts.name; 
+
+3. Provide the name for each region for every order, as well as the account name and the unit price they paid (total_amt_usd/total) for the order. Your final table should have 3 columns: region name, account name, and unit price. A few accounts have 0 for total, so I divided by (total + 0.01) to assure not dividing by zero.
+
+select region.name, accounts.name, orders.total_amt_usd / (orders.total+.01) unit_price
+from orders
+join accounts 
+on accounts.id = orders.account_id
+join sales_reps 
+on accounts.sales_rep_id = sales_reps.id
+join region
+on sales_reps.region_id = region.id
+order by accounts.name;
+
+
+Quiz: Last Check
+
+1. Provide a table that provides the region for each sales_rep along with their associated accounts. This time only for the Midwest region. Your final table should include three columns: the region name, the sales rep name, and the account name. Sort the accounts alphabetically (A-Z) according to account name.
+
+select r.name, s.name, a.name
+from accounts a
+join sales_reps s
+on a.sales_rep_id = s.id
+join region r
+on s.region_id = r.id
+where r.name = 'Midwest'
+order by a.name;
+
+2. Provide a table that provides the region for each sales_rep along with their associated accounts. This time only for accounts where the sales rep has a first name starting with S and in the Midwest region. Your final table should include three columns: the region name, the sales rep name, and the account name. Sort the accounts alphabetically (A-Z) according to account name. 
+
+select r.name, s.name, a.name
+from accounts a
+join sales_reps s
+on a.sales_rep_id = s.id
+join region r
+on s.region_id = r.id
+where r.name = 'Midwest'
+and s.name like 'S%'
+order by a.name;
+
+3. Provide a table that provides the region for each sales_rep along with their associated accounts. This time only for accounts where the sales rep has a last name starting with K and in the Midwest region. Your final table should include three columns: the region name, the sales rep name, and the account name. Sort the accounts alphabetically (A-Z) according to account name.
+
+select r.name, s.name, a.name
+from accounts a
+join sales_reps s
+on a.sales_rep_id = s.id
+join region r
+on s.region_id = r.id
+where r.name = 'Midwest'
+and s.name like '% K%'
+order by a.name;
+
+4. Provide the name for each region for every order, as well as the account name and the unit price they paid (total_amt_usd/total) for the order. However, you should only provide the results if the standard order quantity exceeds 100. Your final table should have 3 columns: region name, account name, and unit price. In order to avoid a division by zero error, adding .01 to the denominator here is helpful total_amt_usd/(total+0.01).
+
+select r.name, a.name, o.total_amt_usd/(total+.01) as unit_price
+from orders o
+join accounts a
+on o.account_id = a.id
+join sales_reps s
+on a.sales_rep_id = s.id
+join region r
+on s.region_id = r.id
+where o.standard_qty > 100;
+
+5. Provide the name for each region for every order, as well as the account name and the unit price they paid (total_amt_usd/total) for the order. However, you should only provide the results if the standard order quantity exceeds 100 and the poster order quantity exceeds 50. Your final table should have 3 columns: region name, account name, and unit price. Sort for the smallest unit price first. In order to avoid a division by zero error, adding .01 to the denominator here is helpful (total_amt_usd/(total+0.01). 
+
+select r.name, a.name, o.total_amt_usd/(total+.01) as unit_price
+from orders o
+join accounts a
+on o.account_id = a.id
+join sales_reps s
+on a.sales_rep_id = s.id
+join region r
+on s.region_id = r.id
+where o.standard_qty > 100
+and o.poster_qty > 50
+order by unit_price;
+
+6. Provide the name for each region for every order, as well as the account name and the unit price they paid (total_amt_usd/total) for the order. However, you should only provide the results if the standard order quantity exceeds 100 and the poster order quantity exceeds 50. Your final table should have 3 columns: region name, account name, and unit price. Sort for the largest unit price first. In order to avoid a division by zero error, adding .01 to the denominator here is helpful (total_amt_usd/(total+0.01). 
+
+select r.name, a.name, o.total_amt_usd/(total+.01) as unit_price
+from orders o
+join accounts a
+on o.account_id = a.id
+join sales_reps s
+on a.sales_rep_id = s.id
+join region r
+on s.region_id = r.id
+where o.standard_qty > 100
+and o.poster_qty > 50
+order by unit_price desc;
+
+7. What are the different channels used by account id 1001? Your final table should have only 2 columns: account name and the different channels. You can try SELECT DISTINCT to narrow down the results to only the unique values.
+
+select distinct a.name, w.channel
+from web_events w
+join accounts a
+on w.account_id = a.id
+where a.id = 1001;
+
+8. Find all the orders that occurred in 2015. Your final table should have 4 columns: occurred_at, account name, order total, and order total_amt_usd.
+
+select o.occurred_at, a.name, o.total, o.total_amt_usd
+from orders o 
+join accounts a
+on o.account_id = a.id
+where o.occurred_at between '2015-01-01' and '2015-12-31'
+order by o.occurred_at desc;
+
+
+Quiz: Having Clause
+
+1. How many of the sales reps have more than 5 accounts that they manage?
+
+select count(*) from
+(
+select s.name, count(a.id)
+from sales_reps s
+join accounts a
+on s.id = a.sales_rep_id
+group by s.name
+having count(a.id) > 5
+order by count(a.id)
+) count_5_plus;
+
+2. How many accounts have more than 20 orders?
+
+select a.name, count(o.id)
+from orders o
+join accounts a
+on a.id = o.account_id
+group by a.name
+having count(o.id) > 20;
+
+3. Which account has the most orders?
+
+select a.name, count(o.id)
+from orders o
+join accounts a
+on a.id = o.account_id
+group by a.name
+order by 2 desc
+limit 1;
+
+5. How many accounts spent less than 1,000 usd total across all orders?
+
+select a.name, sum(total_amt_usd) as total_usd
+from orders o
+join accounts a
+on a.id = o.account_id
+group by a.name
+having sum(total_amt_usd) < 1000;
+
+7. Which account has spent the least with us?
+
+select a.name, sum(total_amt_usd) as total_usd
+from orders o
+join accounts a
+on a.id = o.account_id
+group by a.name
+order by total_usd 
+limit 1;
+
+9. Which account used facebook most as a channel? 
+
+select a.name, w.channel, count(w.id) as total_uses
+from web_events w
+join accounts a
+on a.id = w.account_id 
+where w.channel = 'facebook'
+group by a.name, w.channel
+order by total_uses desc;
+
+
+Quiz: DATE Functions
+
+1. Find the sales in terms of total dollars for all orders in each year, ordered from greatest to least. Do you notice any trends in the yearly sales totals?
+
+select date_part('year',occurred_at) as ord_year, sum(total_amt_usd)
+from orders
+group by 1
+order by 2 desc;
+
+3. Which year did Parch & Posey have the greatest sales in terms of total number of orders? Are all years evenly represented by the dataset?
+
+select date_part('year',occurred_at) as ord_year, count(*)
+from orders
+group by 1
+order by 2 desc;
+
+5. In which month of which year did Walmart spend the most on gloss paper in terms of dollars?
+
+select date_part('month',occurred_at) as ord_month, a.name, sum(gloss_amt_usd)
+from orders o
+join accounts a 
+on o.account_id = a.id
+where name = 'Walmart'
+group by 1, 2
+order by 3 desc
+limit 1;
+
+
+Quiz: CASE Statements
+
+1. We would like to understand 3 different levels of customers based on the amount associated with their purchases. The top branch includes anyone with a Lifetime Value (total sales of all orders) greater than 200,000 usd. The second branch is between 200,000 and 100,000 usd. The lowest branch is anyone under 100,000 usd. Provide a table that includes the level associated with each account. You should provide the account name, the total sales of all orders for the customer, and the level. Order with the top spending customers listed first.
+
+select a.name, sum(total_amt_usd) as total_sales,
+case when sum(total_amt_usd) > 200000 then 'greater than 200,000' when sum(total_amt_usd) between 100000 and 199999 then 'between 200,000 and 100,000' else 'under 100,000' end as level
+from 
+accounts a
+join orders o
+on a.id = o.account_id
+group by a.name
+order by total_sales desc;
+
+3. We would like to identify top performing sales reps, which are sales reps associated with more than 200 orders. Create a table with the sales rep name, the total number of orders, and a column with top or not depending on if they have more than 200 orders. Place the top sales people first in your final table.
+
+select s.name, count(o.*), case when count(o.*) > 200 then 'top' else 'no' end as top_rep
+from sales_reps s
+join accounts a
+on a.sales_rep_id = s.id
+join orders o
+on o.account_id = a.id
+group by s.name
+order by count(o.*) desc;
