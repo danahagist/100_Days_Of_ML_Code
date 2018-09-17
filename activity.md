@@ -857,3 +857,29 @@ MECE Business Case Learning
 
 **Link to Work:** 
 1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day45_binaryTreeNode.sql
+
+
+
+Day 46: September 17th, 2018
+
+Today's Progress: Getting back into the groove of things this morning, kicking the day off with a couple hours of practice.  Again, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course, along with a HackerRank challenge. Below are the links to each and some bullets on what I was able to cover. I also worked on some general problem-solving work around the concept of "MECE" (Mutually Exclusive, Collectively Exhaustive). I've included a link to one of the resources as well below.
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Probability Distributions (including Densities)
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- SQL Aggregations (Date Functions, Case Statements)
+
+HackerRank Challenges:
+- 
+
+MECE Business Case Learning
+- https://igotanoffer.com/blogs/mckinsey-case-interview-blog/mece
+- https://www.youtube.com/watch?v=dwsQ2f2wYpU
+- https://igotanoffer.com/blogs/mckinsey-case-interview-blog/mece#definition
+- https://igotanoffer.com/blogs/mckinsey-case-interview-blog/118288068-case-interviews-frameworks-comprehensive-guide
+Thoughts: 
+
+Link to Work:
+1. SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day46_sqlBasicAndAggregations.txt
+
