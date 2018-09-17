@@ -842,14 +842,17 @@ Although I have been able to get my coding practice in the last couple days, I h
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Programming Bayes Rule
+
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 - SQL Aggregations (Sum, Min, Max, Avg, Group By, Having, Distinct)
+
 HackerRank Challenges:
 1. SQL: https://www.hackerrank.com/challenges/binary-search-tree-1/problem
+
 MECE Business Case Learning
 - YouTube Case Example: https://www.youtube.com/watch?annotation_id=annotation_1503668351&feature=iv&list=UUGo4-qWsTYnGKhXeghZE6hA&src_vid=hKBt0R3v7Ec&v=LDO7mL5LeJk
 
-**Thoughts:***
+**Thoughts:**
  Pretty productive day today, and plan on continuing to stick to the routine this week.  Definitely need to get back to my Dataquest and Coursera material as well.
 
 **Link to Work:** 
