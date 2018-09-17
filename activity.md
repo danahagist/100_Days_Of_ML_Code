@@ -838,22 +838,19 @@ None
 ### Day 44,45: September 15,16th, 2018
 
 **Today's Progress**:
-Although I have been able to get my coding practice in the last couple days, I haven't had the chance to post due to many "goings on."  Today, I'm getting caught up with my posts and really hope to get back to my normal routine this week.  Again today, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course, along with a HackerRank challenge (although I'll probably do a couple more later as well). Below are the links to each and some bullets on what I was able to cover.  I also worked on some general problem-solving work around the concept of "MECE" (Mutually Exclusive, Collectively Exhaustive).  I've included links to those resources as well below.
+Although I have been able to get my coding practice in the last couple days, I haven't had the chance to post due to many "goings on."  Today, I'm getting caught up with my posts and really hope to get back to my normal routine this week.  Again today, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course, along with a HackerRank challenge.  Below are the links to each and some bullets on what I was able to cover.  I also worked on some general problem-solving work around the concept of "MECE" (Mutually Exclusive, Collectively Exhaustive).  I've included a link to one of the resources as well below.
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Programming Bayes Rule
-
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
-- SQL Aggregations (Sum, Min, Max, Avg, Group By)
+- SQL Aggregations (Sum, Min, Max, Avg, Group By, Having, Distinct)
 HackerRank Challenges:
 1. SQL: https://www.hackerrank.com/challenges/binary-search-tree-1/problem
-
 MECE Business Case Learning
 - YouTube Case Example: https://www.youtube.com/watch?annotation_id=annotation_1503668351&feature=iv&list=UUGo4-qWsTYnGKhXeghZE6hA&src_vid=hKBt0R3v7Ec&v=LDO7mL5LeJk
 
-
 **Thoughts:***
- 
+ Pretty productive day today, and plan on continuing to stick to the routine this week.  Definitely need to get back to my Dataquest and Coursera material as well.
 
 **Link to Work:** 
 1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day45_binaryTreeNode.sql
