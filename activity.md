@@ -860,26 +860,24 @@ MECE Business Case Learning
 
 
 
-Day 46: September 17th, 2018
+### Day 46: September 17th, 2018
 
-Today's Progress: Getting back into the groove of things this morning, kicking the day off with a couple hours of practice.  Again, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course, along with a HackerRank challenge. Below are the links to each and some bullets on what I was able to cover. I also worked on some general problem-solving work around the concept of "MECE" (Mutually Exclusive, Collectively Exhaustive). I've included a link to one of the resources as well below.
+Today's Progress: Getting back into the groove of things today, kicking things off early in the morning with a couple hours of practice.  Again, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover. I also worked on some general problem-solving work around the concept of "MECE" (Mutually Exclusive, Collectively Exhaustive). I've included a link to one of the resources as well below.
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Probability Distributions (including Densities)
+- Causation vs Correlation
 
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 - SQL Aggregations (Date Functions, Case Statements)
-
-HackerRank Challenges:
-- 
 
 MECE Business Case Learning
 - https://igotanoffer.com/blogs/mckinsey-case-interview-blog/mece
 - https://www.youtube.com/watch?v=dwsQ2f2wYpU
 - https://igotanoffer.com/blogs/mckinsey-case-interview-blog/mece#definition
 - https://igotanoffer.com/blogs/mckinsey-case-interview-blog/118288068-case-interviews-frameworks-comprehensive-guide
-Thoughts: 
+
+Thoughts: Few hours of progress today, and definitely feeling like it's about time to switch gears and start working on some project work.  I do need to wrap up my Coursera and Dataquest, and then it's time to get much more applied!  And... definitely going to start applying a lot of my knowledge to stuff at work as well.
 
 Link to Work:
 1. SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day46_sqlBasicAndAggregations.txt
-
