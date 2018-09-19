@@ -881,3 +881,20 @@ Thoughts: Few hours of progress today, and definitely feeling like it's about ti
 
 Link to Work:
 1. SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day46_sqlBasicAndAggregations.txt
+
+
+
+### Day 47: September 18th, 2018
+
+Today's Progress: Today was a bit lighter of a day, but still got a couple hours of practice in.  Again, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover. 
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Probability Problem Set 2
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- SQL Subqueries and Temporary Tables
+
+Thoughts: A couple good hours of statistics and SQL today, which just seem to get easier and easier over time.  Although it's hard to feel the progress at times, I know that I'm exponentially more proficient as an analyst as compared to a couple years back.  It definitely motivates me to keep going until I reach my goal of becoming a Data Scientist, and probably beyond that as well (although I wouldn't mind doing a bit more formal education and grabbing a CS degree as well).
+
+Link to Work:
+None
