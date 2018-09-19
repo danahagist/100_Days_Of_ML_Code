@@ -898,3 +898,21 @@ Thoughts: A couple good hours of statistics and SQL today, which just seem to ge
 
 Link to Work:
 None
+
+
+
+### Day 48: September 19th, 2018
+
+Today's Progress: Today was a bit lighter of a day, but still got a couple hours of practice in.  Again, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover. 
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Estimation (Maximum Likelihood Estimator, Laplace Estimator)
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- SQL Subqueries and Temporary Tables
+
+Thoughts: Concept of Maximum Likelihood Estimator vs
+
+Link to Work:
+None
+
