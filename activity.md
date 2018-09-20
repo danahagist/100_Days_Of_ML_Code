@@ -903,7 +903,7 @@ None
 
 ### Day 48: September 19th, 2018
 
-Today's Progress: Today was a bit lighter of a day, but still got a couple hours of practice in.  Again, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover. 
+Today's Progress: Another day with a couple good hours of coding practice.  Again, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover. 
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Estimation (Maximum Likelihood Estimator, Laplace Estimator)
@@ -911,8 +911,7 @@ Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 - SQL Subqueries and Temporary Tables
 
-Thoughts: Concept of Maximum Likelihood Estimator vs
+Thoughts: Concept of Maximum Likelihood Estimator vs Laplace Estimator are really interesting... with the Laplace estimator being the idea that with very small samples, you can actually get a better sense of a probability distribution by adding "fake" data, that is, an observation for every possible outcome, to your sample.  If you haven't read anything about it (and perhaps it doesn't sound too exciting), you should.  I really enjoyed learning about it and seeking to understand its implications.
 
 Link to Work:
 None
-
