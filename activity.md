@@ -923,7 +923,6 @@ None
 Today's Progress: Like Groundhog Day, I kicked things off with more of what I've been doing for the last week or two.  The courses I worked on are the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover. 
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
-- 
 
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 - SQL Subqueries and Temporary Tables
