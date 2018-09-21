@@ -920,15 +920,13 @@ None
 
 ### Day 49: September 20th, 2018
 
-Today's Progress: Like Groundhog Day, I kicked things off with more of what I've been doing for the last week or two.  The courses I worked on are the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover. 
-
-Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+Today's Progress: Like Groundhog Day, I kicked things off with more of what I've been doing for the last week or two.  The only course I worked on today is Udacity's "SQL for Data Analysis" course.  Below is the link to the course and a couple bullets on what I was able to cover.  I've also included a link to some of the sub-query work I got done (lots o' fun with SQL).
 
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
-- SQL Subqueries and Temporary Tables
+- SQL Sub-queries and Temporary Tables
 - WITH Clause
 
-Thoughts: Enjoyed digging into the WITH clause today as a way to neatly arrange your subqueries.  Since I was exposed to them a number of months back, I've been a big advocate for them and try to utilize in queries at work whenever possible.
+Thoughts: Enjoyed digging into the WITH clause today as a way to neatly arrange your sub-queries.  Since I was exposed to them a number of months back, I've been a big advocate for them and try to utilize in queries at work whenever possible.  Sub-queries in general are immensely helpful and necessary with analyzing data using SQL.  This course is offering some great exposure to those concepts.
 
 Link to Work:
 1. SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day49_subqueryMania.sql
