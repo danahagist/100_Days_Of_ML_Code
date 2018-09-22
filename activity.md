@@ -952,3 +952,19 @@ Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 
 ***Link to Work:*** 
 1. SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day50_sqlDataCleaning.sql
+
+
+
+### Day 51: September 22nd, 2018
+
+***Today's Progress***:
+Today my time was a bit limited, so I focused on Udacity's "SQL for Data Analysis" course, and specifically worked on more of the SQL Data Cleaning material.  Link to the course is below, and a link to a few problems and solutions is below as well.
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- Data Cleaning (POSITION, CONCAT)
+
+***Thoughts:***
+Little bit of a lighter study day today, as I spent most of the day out and about in the sun with my wife, but I plan to get a significant amount of work in tomorrow.  Stay tuned! 
+
+***Link to Work:*** 
+1. SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day51_sqlDataCleaning.sql
