@@ -968,3 +968,24 @@ Little bit of a lighter study day today, as I spent most of the day out and abou
 
 ***Link to Work:*** 
 1. SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day51_sqlDataCleaning.sql
+
+
+
+### Day 52: September 23rd, 2018
+
+***Today's Progress***:
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Variance, Standard Deviation, Standard Score
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- SQL Data Cleaning (CAST, COALESCE)
+
+MECE Business Case Learning
+- https:
+
+***Thoughts:***
+Few hours of progress today, and definitely feeling like it's about time to switch gears and start working on some project work.  I do need to wrap up my Coursera and Dataquest, and then it's time to get much more applied!  And... definitely going to start applying a lot of my knowledge to stuff at work as well.
+
+***Link to Work:*** 
+1. SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day46_sqlBasicAndAggregations.txt
