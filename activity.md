@@ -1009,3 +1009,23 @@ Another strong day of progress and I'm coming to a conclusion on both of these c
 
 ***Link to Work:*** 
 None
+
+
+### Day 54: September 25th, 2018
+
+***Today's Progress***:
+Wrapping up the two courses I've been working on recently today...
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Problem Set 3: Estimators 
+- Outliers (Quartiles, Trimmed Mean, Percentile)
+- Binomial Distribution
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- SQL Advanced Joins (UNION & UNION ALL, PERFORMANCE TUNING)
+
+***Thoughts:***
+Another strong day of progress and I'm coming to a conclusion on both of these courses.  I've refreshed a ton of useful information and have really enjoyed all of the brain-teaser type questions surrounding statistics, probability, and SQL.  The coolest thing about it all, is that a year ago, I'm not confident I could have tackled many of these questions.  But through nothing other than continuing to show up, day after day, many of these concepts feel palatable in a way they never have before.
+
+***Link to Work:*** 
+None
