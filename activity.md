@@ -987,3 +987,26 @@ Some decent progress again today, although this coursework always feels like it 
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 53: September 24th, 2018
+
+***Today's Progress***:
+Back at it on this fine Monday morning... got the day started with a couple more hours of the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover. 
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Problem Set 3: Estimators 
+- Outliers (Quartiles, Trimmed Mean, Percentile)
+- Binomial Distribution
+
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- Window Functions (Using OVER, PARTITION BY, ORDER BY, NTILE)
+- SQL Advanced Joins (
+
+***Thoughts:***
+Some decent progress again today, although this coursework always feels like it takes MUCH longer than I would like.  However, progress is progress.  We've got a friend in town this evening, so it's time to hang this up, but I'll be back to it bright and early tomorrow.
+
+***Link to Work:*** 
+None
