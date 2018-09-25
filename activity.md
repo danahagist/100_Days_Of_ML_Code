@@ -1011,21 +1011,17 @@ Another strong day of progress and I'm coming to a conclusion on both of these c
 None
 
 
+
 ### Day 54: September 25th, 2018
 
 ***Today's Progress***:
-Wrapping up the two courses I've been working on recently today...
-
-Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
-- Problem Set 3: Estimators 
-- Outliers (Quartiles, Trimmed Mean, Percentile)
-- Binomial Distribution
+Spent the morning wrapping up the SQL for Data Analysis course I've been working on.  See link to course and my thoughts below...
 
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 - SQL Advanced Joins (UNION & UNION ALL, PERFORMANCE TUNING)
 
 ***Thoughts:***
-Another strong day of progress and I'm coming to a conclusion on both of these courses.  I've refreshed a ton of useful information and have really enjoyed all of the brain-teaser type questions surrounding statistics, probability, and SQL.  The coolest thing about it all, is that a year ago, I'm not confident I could have tackled many of these questions.  But through nothing other than continuing to show up, day after day, many of these concepts feel palatable in a way they never have before.
+This was a REALLY GREAT course covering just about every key topic you need to be an intermediate SQL programmer.  At this point, most of it was a refresh for me, but helped solidify so many things that had up to this point been unclear.  Getting into certain topics like self-joins and performance tuning were really helpful as well.  I'll probably go through this course one more time because it was so good.  I'll be back on the Udacity Statistics course tomorrow, which has also been good.  I can see why Udacity has the great reputation that it does from a teaching standpoint and look forward to engaging further with their curriculum in the future.
 
 ***Link to Work:*** 
 None
