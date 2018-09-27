@@ -1025,3 +1025,25 @@ This was a REALLY GREAT course covering just about every key topic you need to b
 
 ***Link to Work:*** 
 None
+
+
+
+
+### Day 55: September 26th, 2018
+
+***Today's Progress***:
+Spent the morning working on the Udacity Statistics course.  See link to course and my thoughts below...
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Central Limit Theorem
+-Central Limit Theorem (Programming)
+- The Normal Distribution
+- Manipulating Normals
+- Most Better than Average
+- Problem Set 4 (Quartiles, Survey, Random Walk)
+
+***Thoughts:***
+Another day of some great progress on Statistics... 
+
+***Link to Work:*** 
+None
