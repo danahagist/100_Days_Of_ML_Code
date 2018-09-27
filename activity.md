@@ -1032,7 +1032,7 @@ None
 ### Day 55: September 26th, 2018
 
 ***Today's Progress***:
-Spent the morning working on the Udacity Statistics course.  See link to course and my thoughts below...
+Spent the morning and some of the evening working on the Udacity Statistics course from the past couple weeks.  See link to course and my thoughts below...
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Central Limit Theorem
@@ -1043,7 +1043,7 @@ Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Problem Set 4 (Quartiles, Survey, Random Walk)
 
 ***Thoughts:***
-Another day of some great progress on Statistics... 
+Another day of some great progress on Statistics.  This is a pretty long course, but covers tons of valuable material.  Similar to the SQL course I just completed, I can definitely see the value and will likely go through the material one more time to really internalize it.
 
 ***Link to Work:*** 
 None
