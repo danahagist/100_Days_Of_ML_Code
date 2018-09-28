@@ -1073,3 +1073,25 @@ Few hours of progress again today, and feel like I've covered a lot.  I'm learni
 
 ***Link to Work:*** 
 1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day56_newCompanies.sql
+
+
+
+### Day 57: September 28th, 2018
+
+***Today's Progress***:
+Tackled a number of topics again today, including the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  I also worked on some general problem-solving work around the concept of "MECE" (Mutually Exclusive, Collectively Exhaustive). Below are the links to each and some bullets on what I was able to cover:
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- xyz
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- Joins
+
+MECE Business Case Learning
+- https://www.youtube.com/watch?v=qbP8QKlXjKg
+
+***Thoughts:***
+Few hours of progress again today, and feel like I've covered a lot.  I'm learning a ton with each of these topics and plan to stick with them for one more week at least until all are solidified.  Then, back to the Data Science and Machine Learning material, with some project work!
+
+***Link to Work:*** 
+1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day56_newCompanies.sql
