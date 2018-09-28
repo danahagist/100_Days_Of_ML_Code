@@ -1094,4 +1094,4 @@ MECE Business Case Learning
 Few hours of progress again today, and feel like I've covered a lot.  I'm learning a ton with each of these topics and plan to stick with them for one more week at least until all are solidified.  Then, back to the Data Science and Machine Learning material, with some project work!
 
 ***Link to Work:*** 
-1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day56_newCompanies.sql
+1. Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day57_sqlJoins.sql
