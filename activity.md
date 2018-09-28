@@ -1052,20 +1052,24 @@ None
 
 ### Day 56: September 27th, 2018
 
-Today's Progress: Getting back into the groove of things today, kicking things off early in the morning with a couple hours of practice.  Again, I worked on the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover. I also worked on some general problem-solving work around the concept of "MECE" (Mutually Exclusive, Collectively Exhaustive). I've included a link to one of the resources as well below.
+***Today's Progress***:
+Tackled a number of topics again today, including the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  I also worked on some general problem-solving work around the concept of "MECE" (Mutually Exclusive, Collectively Exhaustive). Below are the links to each and some bullets on what I was able to cover:
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Sebastian's Weight and Proofs
 - Confidence Intervals
+- Normal Quantiles
 
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
-- SQL Aggregations (Date Functions, Case Statements)
+- Combination of Topics including Joins and Aggregations
 
 MECE Business Case Learning
 - https://www.youtube.com/watch?v=Nib4_5_4afA
+- https://www.youtube.com/watch?v=Io4RcT38D2M
+- https://searchcrm.techtarget.com/tutorial/Customer-loyalty-case-studies-and-industry-specific-strategies
 
+***Thoughts:***
+Few hours of progress again today, and feel like I've covered a lot.  I'm learning a ton with each of these topics and plan to stick with them for one more week at least until all are solidified.  Then, back to the Data Science and Machine Learning material, with some project work!
 
-Thoughts: Few hours of progress today, and definitely feeling like it's about time to switch gears and start working on some project work.  I do need to wrap up my Coursera and Dataquest, and then it's time to get much more applied!  And... definitely going to start applying a lot of my knowledge to stuff at work as well.
-
-Link to Work:
-1. SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day46_sqlBasicAndAggregations.txt
+***Link to Work:*** 
+1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day56_newCompanies.sql
