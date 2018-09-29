@@ -1079,10 +1079,7 @@ Few hours of progress again today, and feel like I've covered a lot.  I'm learni
 ### Day 57: September 28th, 2018
 
 ***Today's Progress***:
-Tackled a number of topics again today, including the Udacity "Intro to Statistics" course and Udacity's "SQL for Data Analysis" course.  I also worked on some general problem-solving work around the concept of "MECE" (Mutually Exclusive, Collectively Exhaustive). Below are the links to each and some bullets on what I was able to cover:
-
-Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
-- xyz
+Similar day to day as those recently, including Udacity's "SQL for Data Analysis" course and some general problem-solving/management consulting study.  Below are the links to each and some bullets on what I was able to cover:
 
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 - Joins
@@ -1091,7 +1088,7 @@ MECE Business Case Learning
 - https://www.youtube.com/watch?v=qbP8QKlXjKg
 
 ***Thoughts:***
-Few hours of progress again today, and feel like I've covered a lot.  I'm learning a ton with each of these topics and plan to stick with them for one more week at least until all are solidified.  Then, back to the Data Science and Machine Learning material, with some project work!
+Pretty standard day with a couple hours of course work completed.  Ready to hang it up and relax for the evening, so I can get back to it tomorrow.
 
 ***Link to Work:*** 
 1. Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day57_sqlJoins.sql
