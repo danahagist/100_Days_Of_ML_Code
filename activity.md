@@ -1092,3 +1092,28 @@ Pretty standard day with a couple hours of course work completed.  Ready to hang
 
 ***Link to Work:*** 
 1. Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day57_sqlJoins.sql
+
+
+
+### Day 58: September 29th, 2018
+
+***Today's Progress***:
+Tackled LOTS OF STATISTICS today with the Udacity "Intro to Statistics" course, as well as some of Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover:
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Hypothesis Test (Sections 1 & 2)
+- Programming Tests and Intervals
+- Problem Set 5: Inference
+- Regression
+- Correlation
+- Monte Hall Problem
+- Problem Set 6: Regression and Correlation
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- Combination of Topics including Joins and Aggregations
+
+***Thoughts:***
+Probably only one day left of this Udacity Statistics course... although admittedly, I kind of have an itch to go through it one more time.  Something I notice again and again in skills absolutely required to master in Data Science interviews are these Statistics and Probability questions.  This is a great course that I think sets you up with the requisite knowledge to speak very intelligently about these topics.
+
+***Link to Work:*** 
+1. Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day58_sqlAggregations.sql
