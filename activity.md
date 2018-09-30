@@ -1117,3 +1117,25 @@ Probably only one day left of this Udacity Statistics course... although admitte
 
 ***Link to Work:*** 
 1. Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day58_sqlAggregations.sql
+
+
+
+### Day 59: September 30th, 2018
+
+***Today's Progress***:
+Finally finished off the Udacity "Intro to Statistics" course today... and learned a ton from this one!  Was good to work through the Final Exam, and although I had to Google a couple formulas, I could understand every concept.  I've become a much stronger statistician with this course, although much of it was a refresher from the college days.  I also worked on some of Udacity's "SQL for Data Analysis" course.  Below are the links to each and some bullets on what I was able to cover:
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Weight Case Studies
+- Flash Crash Example
+- Challenger Example
+- Final Exam
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- Aggregations
+
+***Thoughts:***
+Feels good to have made the progress that I did today, although admittedly, the brain is a bit exhausted.  Going to hang it up for the evening and get some rest.  Back to it tomorrow.
+
+***Link to Work:*** 
+None
