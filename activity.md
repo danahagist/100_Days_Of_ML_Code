@@ -1139,3 +1139,22 @@ Feels good to have made the progress that I did today, although admittedly, the 
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 60: October 1st, 2018
+
+***Today's Progress***:
+Started the day with some more SQL for Data Analysis and did kicked off Udacity's "A/B Testing for Business Analysts" course.  I will try to get a little bit more work in over the course of the day, but I'm also headed to the Broncos-Chiefs Monday Night Football game.  I'm definitely not mad at a night off after all of the hard work I've put in recently.
+
+Udacity A/B Testing for Business Analysts: https://classroom.udacity.com/courses/ud979
+- Fundamentals (Units, Treatment and Control Groups, Correlation, Confounding Variables, Experiment Duration, Experimental Design, etc.)
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- Aggregations (GROUP BY, DISTINCT, HAVING, DATE Functions)
+
+***Thoughts:***
+Pretty good progress today on a number of topics, but definitely feeling the aftermath and brain fatigue after thirty or so hours of studying last week.  Tonight will be a much-deserved break.
+
+***Link to Work:*** 
+1. Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day60_sqlProblemsSolutions.sql
