@@ -1158,3 +1158,31 @@ Pretty good progress today on a number of topics, but definitely feeling the aft
 
 ***Link to Work:*** 
 1. Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day60_sqlProblemsSolutions.sql
+
+
+
+
+### Day 61: October 3rd, 2018
+
+***Today's Progress***:
+Although I was able to get my studying in yesterday, I didn't have a chance to post, so I'm not including it toward my 100 Day Challenge.  Started today with some of the Udacity "Intro to Statistics" course, as I want to revisit some of the concepts one more time this week in order to solidify them.  I also worked on some of Udacity's "SQL for Data Analysis" and "A/B Testing for Business Analysts" courses.  Lastly, I worked through some HackerRank challenges on the topics I'm reinforcing including probability, statistics, and SQL.  Below are the links to each and some bullets on what I was able to cover:
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Probability
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- 
+
+Udacity A/B Testing for Business Analysts: https://classroom.udacity.com/courses/ud979
+- 
+
+HackerRank: 
+1. Probability: https://www.hackerrank.com/challenges/basic-probability-puzzles-1/problem
+2. Probability: https://www.hackerrank.com/challenges/basic-probability-puzzles-2/problem?h_r=next-challenge&h_v=zen
+3. SQL: https://www.hackerrank.com/challenges/the-report/problem
+
+***Thoughts:***
+...
+
+***Link to Work:*** 
+1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day56_newCompanies.sql
