@@ -1184,3 +1184,25 @@ Good progress on a variety of topics today that all have me feeling REALLY comfo
 
 ***Link to Work:*** 
 1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day61_theReport.SQL
+
+
+
+### Day 62: October 4th, 2018
+
+***Today's Progress***:
+Although I was able to get my studying in yesterday, I didn't have a chance to post, so I'm not including it toward my 100 Day Challenge.  Started today with some of the Udacity "Intro to Statistics" course, as I want to revisit some of the concepts one more time this week in order to solidify them.  I also worked on some of Udacity's "SQL for Data Analysis" course. Lastly, I worked through some HackerRank challenges on the topics I'm reinforcing including probability, statistics, and SQL.  Below are the links to each and some bullets on what I was able to cover:
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Bayes Rule
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- Subqueries
+
+HackerRank: 
+1. a
+
+***Thoughts:***
+Good progress on a variety of topics today that all have me feeling REALLY comfortable in my ability to understand them.  It's amazing what continuously attacking a set of subjects will do for you.
+
+***Link to Work:*** 
+1. HackerRank: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day61_theReport.SQL
