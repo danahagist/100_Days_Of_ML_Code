@@ -32,3 +32,22 @@ SELECT NAME,
 LEFT(NAME,POSITION(' ' IN NAME)) FIRST_NAME,
 RIGHT(NAME,LENGTH(NAME)-POSITION(' ' IN NAME)) LAST_NAME                       
 FROM SALES_REPS;
+
+                                 
+/* Each company in the accounts table wants to create an email address for each primary_poc. 
+The email address should be the first name of the primary_poc . last name primary_poc @ company name .com. 
+Also, remove all spaces in the account name */ 
+
+select lower(
+            replace(
+                    concat(left(primary_poc,position(' ' in primary_poc)),
+                    '.', 
+                    right(primary_poc,length(primary_poc) - position(' ' in primary_poc)),
+                    '@',
+                    name,
+                    '.com'),
+             ' ','')
+             ) 
+from accounts;
+                                 
+                                 
