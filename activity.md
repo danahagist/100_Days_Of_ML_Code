@@ -1207,3 +1207,32 @@ Although not quite as much progress as I would have liked to make today, still g
 
 ***Link to Work:*** 
 - Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day62_udacitySQL.SQL
+
+
+
+
+### Day 63: October 5th, 2018
+
+***Today's Progress***:
+More of the same strategy today... working on SQL, Statistics, and Business Case work. Specifically, covered some of the Udacity's "Intro to Statistics" and "SQL for Data Analysis" courses, as well as some general problem-solving frameworks at various sites.  Below are the links to each and some bullets on what I was able to cover:
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Probability Distributions
+- Correlation and Causation
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- SQL Data Cleaning, SQL Window Functions
+
+Business Case Study:
+- a
+
+HackerRank: 
+1. Probability: https://www.hackerrank.com/challenges/basic-probability-puzzles-4/problem
+3. SQL: https://www.hackerrank.com/challenges/weather-observation-station-19
+
+***Thoughts:***
+Although not quite as much progress as I would have liked to make today, still got a few hours of exercises in.  Will hit this material hard for the remainder of this week and get back to some Machine Learning stuff next week.  
+
+***Link to Work:*** 
+- Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day63_udacitySQL.SQL
+- HackerRank SQL: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day63_weatherObservationStation19.SQL
