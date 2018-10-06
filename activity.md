@@ -1247,13 +1247,13 @@ Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Estimation
 - Averages
 - Variance
-- Esimators Problem Set
+- Estimators Problem Set
 
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 - SQL Window Functions
 
 HackerRank: 
-1. SQL: https://www.hackerrank.com/challenges/full-score/problem
+- SQL: https://www.hackerrank.com/challenges/full-score/problem
 
 ***Thoughts:***
 A few hours to start the day today, and then had plenty of errands to run, so decided to hang it up.  Hoping that by tomorrow I can wrap on both of these and spend some time relaxing before a busy week ahead.
