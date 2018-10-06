@@ -1247,15 +1247,16 @@ Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Estimation
 - Averages
 - Variance
+- Esimators Problem Set
 
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
 - SQL Window Functions
 
 HackerRank: 
-1. SQL: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day64_topCustomers.sql
+1. SQL: https://www.hackerrank.com/challenges/full-score/problem
 
 ***Thoughts:***
-A few hours to start the day, and will get through a few more.
+A few hours to start the day today, and then had plenty of errands to run, so decided to hang it up.  Hoping that by tomorrow I can wrap on both of these and spend some time relaxing before a busy week ahead.
 
 ***Link to Work:*** 
 - HackerRank SQL: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day64_topCustomers.sql
