@@ -1210,7 +1210,6 @@ Although not quite as much progress as I would have liked to make today, still g
 
 
 
-
 ### Day 63: October 5th, 2018
 
 ***Today's Progress***:
@@ -1234,3 +1233,29 @@ Got quite a bit of progress in today and definitely feeling a bit exhausted.  I'
 ***Link to Work:*** 
 - Udacity SQL for Data Analysis: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day63_udacitySQL.SQL
 - HackerRank SQL: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day63_weatherObservationStation19.SQL
+
+
+
+### Day 64: October 6th, 2018
+
+***Today's Progress***:
+Got started with my same recent routine, including SQL and Statistics. Specifically, covered some of the Udacity's "Intro to Statistics" and "SQL for Data Analysis" courses. Below are the links to each and some bullets on what I was able to cover:
+
+Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
+- Correlation and Causation
+- Probability Problem Set
+- Estimation
+- Averages
+- Variance
+
+Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
+- SQL Window Functions
+
+HackerRank: 
+1. SQL: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day64_topCustomers.sql
+
+***Thoughts:***
+A few hours to start the day, and will get through a few more.
+
+***Link to Work:*** 
+- HackerRank SQL: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day64_topCustomers.sql
