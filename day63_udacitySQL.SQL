@@ -49,5 +49,15 @@ select lower(
              ' ','')
              ) 
 from accounts;
-                                 
+
+
+/* Create a running total of standard_amt_usd (in the orders table) over order time, 
+and date truncate occurred_at by year and partition by that same year-truncated occurred_at variable. 
+Your final table should have three columns: One with the amount being added for each row, 
+one for the truncated date, and a final column with the running total within each year. */
+
+select date_trunc('year',occurred_at) as occurred_year, standard_amt_usd, sum(standard_amt_usd) 
+over (partition by date_trunc('year',occurred_at) 
+order by occurred_at) rolling_total 
+from orders;                                
                                  
