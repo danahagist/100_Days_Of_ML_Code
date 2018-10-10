@@ -2527,10 +2527,10 @@ A few hours to start the day today, and then had plenty of errands to run, so de
 
 
 
-### Day 65: October 7th, 2018
+### Day 65: October 10th, 2018
 
 ***Today's Progress***:
-Got started with my same recent routine, including SQL and Statistics. Specifically, covered some of the Udacity's "Intro to Statistics" and "SQL for Data Analysis" courses. Below are the links to each and some bullets on what I was able to cover:
+I haven't had a chance to post for the last few days due to some travel and obligations that took most of my time.  However, I did get some studying in each day, although I won't count that time toward the challenge (no post, no credit).  To recap, over the last few days, I continued to focus on SQL and Statistics. Specifically, worked on Udacity's "Intro to Statistics" and "SQL for Data Analysis" courses. Today, I jumped back into the Dataquest "Data Science" track, working through the module on "Overfitting."  Below are the links to each and some bullets on what I was able to cover:
 
 Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Outliers
@@ -2538,14 +2538,14 @@ Udacity Intro to Statistics: https://classroom.udacity.com/courses/st101
 - Central Limit Theorem
 
 Udacity SQL for Data Analysis: https://classroom.udacity.com/courses/ud198
-- SQL Window Functions
+- SQL Window Functions and Advanced Joins
 
-HackerRank: 
-- SQL: https://www.hackerrank.com/challenges/full-score/problem
+Dataquest: https://www.dataquest.io
+- Overfitting
 
 ***Thoughts:***
-A few hours to start the day today, and then had plenty of errands to run, so decided to hang it up.  Hoping that by tomorrow I can wrap on both of these and spend some time relaxing before a busy week ahead.
+Got a couple hours in this morning, and will get a couple this afternoon as well.  Felt REALLY good to look back at some Machine Learning material today, as I've missed a lot of that focusing on SQL and Statistics for the last couple weeks.  However, I've gotten stronger from it, will be a better Data Scientist because of it, and I'm excited for the material ahead of me.
 
 ***Link to Work:*** 
-- HackerRank SQL: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day64_topCustomers.sql
+None
 
