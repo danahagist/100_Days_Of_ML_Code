@@ -2549,3 +2549,19 @@ Got a couple hours in this morning, and will get a couple this afternoon as well
 ***Link to Work:*** 
 None
 
+
+
+### Day 66: October 11th, 2018
+
+***Today's Progress***:
+Dove back into Dataquest's "Machine Learning in Python: Intermediate" course today, looking at K-Means Clustering.  This is a really cool topic that can help you discover patterns from unlabeled data (unsupervised learning).
+
+Dataquest: https://www.dataquest.io
+- Clustering Basics
+
+***Thoughts:***
+...
+
+***Link to Work:*** 
+None
+
