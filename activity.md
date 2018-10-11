@@ -2554,13 +2554,14 @@ None
 ### Day 66: October 11th, 2018
 
 ***Today's Progress***:
-Dove back into Dataquest's "Machine Learning in Python: Intermediate" course today, looking at K-Means Clustering.  This is a really cool topic that can help you discover patterns from unlabeled data (unsupervised learning).
+Dove back into Dataquest's "Machine Learning in Python: Intermediate" course today, looking at K-Means Clustering.  This is a really important topic that can help you discover patterns from unlabeled data (unsupervised learning). 
 
 Dataquest: https://www.dataquest.io
 - Clustering Basics
+- K-Means Clustering
 
 ***Thoughts:***
-...
+I really want to find some good data sets where I can work with this Python package and algorithm and find some interesting insights in the data.  This would also be a great method to perform some customer segmentation at work.
 
 ***Link to Work:*** 
 None
