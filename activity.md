@@ -2566,3 +2566,19 @@ I really want to find some good data sets where I can work with this Python pack
 ***Link to Work:*** 
 None
 
+
+
+### Day 67: October 12th, 2018
+
+***Today's Progress***:
+Another day with Dataquest's "Machine Learning in Python: Intermediate" course, looking at Gradient Descent.  Gradient Descent is another important topic to understand, and is particulary helpful when you have too much data to fit into memory for calculation of least squares.
+
+Dataquest: https://www.dataquest.io
+- Gradient Descent
+
+***Thoughts:***
+Gradient Descent is a topic you see again and again in Machine Learning, as one approach for minimizing your loss function.  It's an approach that is leveraged heavily in many machine learning and artificial intelligence applications.  There are some aspects of it that I'm still trying to wrap my head around (particularly how the steps toward parameter optimization work), but I can see how powerful and valuable this methodology is.
+
+***Link to Work:*** 
+None
+
