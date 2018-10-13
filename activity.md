@@ -2568,16 +2568,17 @@ None
 
 
 
-### Day 67: October 12th, 2018
+### Day 67: October 13th, 2018
 
 ***Today's Progress***:
-Another day with Dataquest's "Machine Learning in Python: Intermediate" course, looking at Gradient Descent.  Gradient Descent is another important topic to understand, and is particulary helpful when you have too much data to fit into memory for calculation of least squares.
+Got my hour of studying in yesterday, but didn't have a chance to get my post up, so I'm posting today for both days (counting one day). Both days were spent on Dataquest's "Machine Learning in Python: Intermediate" course.  Yesterday, I looked at Gradient Descent.  Gradient Descent is an important topic to understand, and is particularly helpful when you have too much data to fit into memory for calculation of least squares. Today, I got started on Neural Networks, which is an extremely hot topic in the Data Science and Machine Learning world.
 
 Dataquest: https://www.dataquest.io
 - Gradient Descent
+- Introduction to Neural Networks
 
 ***Thoughts:***
-Gradient Descent is a topic you see again and again in Machine Learning, as one approach for minimizing your loss function.  It's an approach that is leveraged heavily in many machine learning and artificial intelligence applications.  There are some aspects of it that I'm still trying to wrap my head around (particularly how the steps toward parameter optimization work), but I can see how powerful and valuable this methodology is.
+Gradient Descent is a topic you see again and again in Machine Learning, as one approach for minimizing your loss function.  It's an approach that is leveraged heavily in many machine learning and artificial intelligence applications.  There are some aspects of it that I'm still trying to wrap my head around (particularly how the steps toward parameter optimization work), but I can see how powerful and valuable this methodology is.  Regarding Neural Networks, the course throws a lot of information over ten or so slides/tasks, so this is a topic that I think warrants a much deeper dive, potentially with another course.  However, I had recently read an article on LinkedIn from a Data Scientist, who encouraged aspiring Data Scientists to, in a sense, "power through" material the first time you are exposed to it, and then increasingly focus on internalizing the concept the more you are exposed to it.  As I've been working on this Dataquest material for quite some time, I feel myself losing touch with some of the basics.  As such, I'm going to work through this material at a quick pace, and then start on Datacamp material, really focusing on each topic, and doing side projects to solidify the material. Regardless, showing up each day, and focusing on learning concepts, has a ton of value even if I do struggle once in a while to retain every piece of information I see.
 
 ***Link to Work:*** 
 None
