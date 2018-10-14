@@ -2588,15 +2588,16 @@ None
 ### Day 68: October 14th, 2018
 
 ***Today's Progress***:
-Another day today spent on Dataquest's "Machine Learning in Python: Intermediate" course.  Worked on a guided project to predict the stock market, and then dove into Decision Trees.
+Another day today spent on Dataquest's "Machine Learning in Python: Intermediate" course.  Worked on a guided project to predict the stock market, which was the culmination of this course.  Next, I dove into Decision Trees.  Most of the Decision Tree study has been focused on building the trees manually, although I imagine there are some great Python packages that serve this purpose, which is probably coming up soon.
 
 Dataquest: https://www.dataquest.io
 - Guided Project: Predicting the Stock Market
 - Decision Trees
 
 ***Thoughts:***
-
+A few hours of progress today on a couple very important Machine Learning algorithms.  It's great to be diving back into this ML material and progressing those skills.  I'm hoping to finish up the Dataquest material in the next couple weeks, so that I can get back started on more fundamentals.  Ultimately, I want to have a very firm grasp of all of the fundamental concepts in programming and machine learning before trying to master the most advanced algorithms and artificial intelligence related material.
 
 ***Link to Work:*** 
-None
+- Machine Learning in Python Intermediate Certificate: https://www.dataquest.io/view_cert/YFMXZ1PZ10BWQ36HDK2K/
+
 
