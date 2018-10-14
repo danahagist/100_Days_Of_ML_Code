@@ -2583,3 +2583,20 @@ Gradient Descent is a topic you see again and again in Machine Learning, as one 
 ***Link to Work:*** 
 None
 
+
+
+### Day 68: October 14th, 2018
+
+***Today's Progress***:
+Another day today spent on Dataquest's "Machine Learning in Python: Intermediate" course.  Worked on a guided project to predict the stock market, and then dove into Decision Trees.
+
+Dataquest: https://www.dataquest.io
+- Guided Project: Predicting the Stock Market
+- Decision Trees
+
+***Thoughts:***
+
+
+***Link to Work:*** 
+None
+
