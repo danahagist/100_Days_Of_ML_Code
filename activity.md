@@ -2601,3 +2601,20 @@ A few hours of progress today on a couple very important Machine Learning algori
 - Machine Learning in Python Intermediate Certificate: https://www.dataquest.io/view_cert/YFMXZ1PZ10BWQ36HDK2K/
 
 
+
+### Day 69: October 15th, 2018
+
+***Today's Progress***:
+Kept things moving today with Dataquest's "Decision Trees" course.  Most of the material today was spent on building Decision Trees from scratch, and then moving into some of the powerful (and much more user-friendly) Python/ sklearn packages to do that for you.
+
+Dataquest: https://www.dataquest.io
+- Building a Decision Tree
+- Applying Decision Trees
+
+***Thoughts:***
+Got a couple good hours of progress in between this morning and this afternoon.  Will keep on moving through this course and hope to get it completed in the next week or two.
+
+***Link to Work:*** 
+None
+
+
