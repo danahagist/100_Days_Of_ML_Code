@@ -2618,3 +2618,19 @@ Got a couple good hours of progress in between this morning and this afternoon. 
 None
 
 
+
+### Day 70: October 16th, 2018
+
+***Today's Progress***:
+Kept things moving today with Dataquest's "Decision Trees" course.  The focus today was again on applying Decision Trees, but this time using the sklearn.DecisionTreeClassifer class.  This is really slick and easy to use, and I'm looking forward to working with some other data sets and applying this.
+
+Dataquest: https://www.dataquest.io
+- Applying Decision Trees
+
+***Thoughts:***
+Today, I had a small breakthrough in terms of understanding the trade-off between over-fitting and out of sample accuracy for your model.  In doing some hyperparameter optimization (e.g. controlling the depth of your decision tree), it was very clear that at a certain level of model complexity, your AUCs on your train and test set predictions converge.  I think before seeing this iterative change in the AUC today, I was still somewhat under the impression that having an extremely high R-Squared or AUC on your training set was a good thing, even when your test set suffered from a significant amount of prediction error.  It's these little things that reveal themselves to you through no other means than doing this over and over, that make this that much more gratifying.
+
+***Link to Work:*** 
+None
+
+
