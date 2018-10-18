@@ -2650,3 +2650,20 @@ Random Forests are a great approach to classification, and are very easy to impl
 
 ***Link to Work:*** 
 Dataquest: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day71_randomForestIncome.py
+
+
+
+### Day 72: October 18th, 2018
+
+***Today's Progress***:
+Started off the day by finishing Dataquest's "Decision Trees" course, including a guided project on predicing bike rentals.  The project was great as I implemented a Linear Regression, Decision Tree, and then Random Forest in order to make predictions.  I have posted the link to the project below in the "Link to Work."  Next, I moved on to a project to predict loan default with Lending Club data.
+
+Dataquest: https://www.dataquest.io
+- Guided Project: Predicting Bike Rentals
+- Machine Learning Project Walkthrough: Lending Club
+
+***Thoughts:***
+In the guided project I completed with bike rentals data, it's amazing to me to see the benefit of using a Random Forest to make predictions.  As compared to a Linear Regression model, the difference in errors is stark and shocking.  I will definitely seek out opportunities to implement a similar methodology with public datasets, as well as working with data professionally. I'm also very excited to be working with the Lending Club data, predicing loan default.  
+
+***Link to Work:*** 
+Dataquest Guided Project: 
