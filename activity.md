@@ -2638,7 +2638,7 @@ None
 ### Day 71: October 17th, 2018
 
 ***Today's Progress***:
-Kept things moving today with Dataquest's "Decision Trees" course.  I started by finishing off the material on Applying Decision Trees, and then moved on to Random Forest, which are ensembles (collections) of Decision Trees.  Very, very powerful method that you see used very often in Data Science.  I've included in the "Link to Work" a very simple implementation of a Random Forest in Python.
+Kept things moving today with Dataquest's "Decision Trees" course.  I started by finishing off the material on Applying Decision Trees, and then moved on to Random Forests, which are ensembles (collections) of Decision Trees.  Very, very powerful method that you see used very often in Data Science.  I've included in the "Link to Work" a very simple implementation of a Random Forest in Python.  Lastly, I got a Guided Project started on Predicting Bike Rentals, which will be an implementation of Random Forests from start (reading in data) to finish (prediction and model accuracy)
 
 Dataquest: https://www.dataquest.io
 - Applying Decision Trees
@@ -2646,7 +2646,7 @@ Dataquest: https://www.dataquest.io
 - Guided Project: Predicting Bike Rentals
 
 ***Thoughts:***
-Random Forests are a great approach to classification, and are so easy to implement in Python with the sklearn.RandomForestClassifier class.  Again, you can see my link below.  One thing I want to do in the coming weeks is take this approach and apply it to some work data to see if I can predict outcomes like the probability of quote to sale conversion.  Really interesting concept that I encourage anybody interested in making predictions to explore and apply.
+Random Forests are a great approach to classification, and are very easy to implement in Python with the sklearn.RandomForestClassifier class.  Again, you can see my link below.  One thing I want to do in the coming weeks is take this approach and apply it to some work data to see if I can predict outcomes like the probability of quote to sale conversion.  I'm also excited for the guided project and applying some of these skills to a "friendly" data set.    I encourage anybody interested in making predictions to explore and find opportunities to apply Random Forests.
 
 ***Link to Work:*** 
-https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day71_randomForestIncome.py
+Dataquest: https://github.com/danahagist/100_Days_Of_ML_Code/blob/master/day71_randomForestIncome.py
