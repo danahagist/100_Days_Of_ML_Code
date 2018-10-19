@@ -2663,7 +2663,7 @@ Dataquest: https://www.dataquest.io
 - Machine Learning Project Walkthrough: Lending Club
 
 ***Thoughts:***
-In the guided project I completed with bike rentals data, it's amazing to me to see the benefit of using a Random Forest to make predictions.  As compared to a Linear Regression model, the difference in errors is stark and shocking.  I will definitely seek out opportunities to implement a similar methodology with public datasets, as well as working with data professionally. I'm also very excited to be working with the Lending Club data, predicing loan default.  
+In the guided project I completed with bike rentals data, it's amazing to me to see the benefit of using a Random Forest to make predictions.  As compared to a Linear Regression model, the difference in errors is stark and shocking.  I will definitely seek out opportunities to implement a similar methodology with public datasets, as well as working with data professionally. I'm also very excited to be working with the Lending Club data, predicting loan default.  Hoping to have that project done in the coming days. 
 
 ***Link to Work:*** 
-Dataquest Guided Project: 
+Dataquest Guided Project: https://dananomics.com/portfolio/predicting-bike-rentals/
