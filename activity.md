@@ -2667,3 +2667,19 @@ In the guided project I completed with bike rentals data, it's amazing to me to 
 
 ***Link to Work:*** 
 Dataquest Guided Project: https://dananomics.com/portfolio/predicting-bike-rentals/
+
+
+
+### Day 73: October 19th, 2018
+
+***Today's Progress***:
+Today I worked on Dataquest's project to predict loan default with Lending Club data. I also spent some time doing housekeeping on my website and my LinkedIn profile, which are imperative to keep up to date.  I plan on digging back into the Dataquest material tomorrow, and seeing how much progress I can make.
+
+Dataquest: https://www.dataquest.io
+- Machine Learning Project Walkthrough: Lending Club
+
+***Thoughts:***
+I'm currently at 83% completion of the Dataquest Data Science material, and hoping to wrap on the rest of it soon.  I would also like to go through the Data Engineering material in the spirit of continuing my development as a strong generalist in the analytics world.  Onward and upward.  Happy Friday everyone! 
+
+***Link to Work:*** 
+None
