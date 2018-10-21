@@ -2683,3 +2683,20 @@ I'm currently at 83% completion of the Dataquest Data Science material, and hopi
 
 ***Link to Work:*** 
 None
+
+
+
+
+### Day 74: October 21st, 2018
+
+***Today's Progress***:
+Didn't have a chance to post yesterday, as I was enjoying the weekend with friends, but did get a bit of studying in both yesterday and today.  Both days, I worked on Dataquest's project to predict loan default with Lending Club data, and I'm putting the project in Jupyter notebook so that I can both share it and refer back to it.  The general purpose is to work through an entire Machine Learning workflow to predict loan default, so I would expect it would be valuable to come back to time and again for other projects. I also spent a little bit more time doing housekeeping on my website and my LinkedIn profile. I plan on digging back into the Dataquest material tomorrow, and hoping I can get close to completing this Machine Learning project.
+
+Dataquest: https://www.dataquest.io
+- Machine Learning Project Walkthrough: Lending Club
+
+***Thoughts:***
+Another day and another percent complete on the Dataquest Data Scientist track.  The project I'm working through right now is very valuable, walking through most steps of the machine learning process, so I'm taking my time and documenting everything while completing the project in Jupyter Notebooks.  I'm about 15% from being done with the Data Science track, which has been hugely rewarding.  I've gained some great skills and plan to keep on working through material on every possible platform until I achieve my educational and career goals.  Happy learning folks!
+
+***Link to Work:*** 
+None
