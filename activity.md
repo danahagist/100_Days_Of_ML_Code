@@ -2718,16 +2718,17 @@ None
 
 
 
-### Day 76: October 24th, 2018
+### Day 76: October 25th, 2018
 
 ***Today's Progress***:
-Another couple hours today working with Dataquest's project to predict loan default with Lending Club data.  Got approximately two hours of work in on that project.  Hoping to wrap that up tomorrow or the following day, and then will be out of town for the weekend, so may have to skip a couple days on the challenge.
+Haven't been able to get a post up for a couple days due to lots of "goings on" and general busy-ness at work.  However, I have been studying.  I completed Dataquest's project to predict loan default with Lending Club data, and once I get that cleaned and structured in Jupyter Notebooks, will post it.  I'm now currently working on the course on "Memory and Unicode" which focuses heavily on the binary representation of information (letters, numbers, symbols and the like). 
 
 Dataquest: https://www.dataquest.io
 - Machine Learning Project Walkthrough: Lending Club
+- Memory and Unicode
 
 ***Thoughts:***
-Keeping the progress going, and getting close to being through this course, and through the Dataquest Data Science track.  I will also complete the Data Engineer track in order to strengthen those skills as well.  After all, every Machine Learning project starts with wrangling your data.
+With about 14% of the overall Data Scientist path to go, I've got to stay focused and hammer out the rest of this.  As I've discussed before, once this is complete, I'm going to shift gears and take a heavier project focus, while also working on my core skills around statistics, SQL, visualizations, case studies, etc.  If I want to reach my Data Scientist goal, these are things I can never let slip too far from sight.
 
 ***Link to Work:*** 
 None
