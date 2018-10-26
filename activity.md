@@ -2732,3 +2732,19 @@ With about 14% of the overall Data Scientist path to go, I've got to stay focuse
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 77: October 26th, 2018
+
+***Today's Progress***:
+Today, I got something new and pretty cool accomplished, that is, setting up my Tableau Public profile, and spent a little bit of time creating a terrible-looking dashboard (playing around on a plane from Denver to Austin).  I also made more progress in Dataquest's "Memory and Unicode" course, today focusing on hexadecimal and other representations of data.
+
+Dataquest: https://www.dataquest.io
+- Memory and Unicode
+
+***Thoughts:***
+One thing I want to make more of a focal point, as I believe it's extremely important, is Data Visualization.  Although I do work on these types of projects regularly, coming up with creative and beautiful data vizzes is something I want to continue to work at.  Still making progress on the Dataquest material as well, which I should be able to complete in the next 1-2 weeks.
+
+***Link to Work:*** 
+Tableau Public Profile: https://public.tableau.com/profile/dananomics/
