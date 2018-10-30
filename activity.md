@@ -2748,3 +2748,20 @@ One thing I want to make more of a focal point, as I believe it's extremely impo
 
 ***Link to Work:*** 
 Tableau Public Profile: https://public.tableau.com/profile/dananomics/
+
+
+
+
+### Day 78: October 29th, 2018
+
+***Today's Progress***:
+Got through the remainder of the Dataquest course on "Memory and Unicode" today, and also worked on a quick #MakeoverMonday data visualization exercise(see "Link to Work" section below).
+
+Dataquest: https://www.dataquest.io
+- Memory and Unicode
+
+***Thoughts:***
+Good hour and a half or so of progress today, and much of that was fumbling through Tableau playing and reacquainting myself with the platform.  Just like everything else I'm doing, that will only get easier and easier with time and practice, and I'm a big fan and advocate of the product so I enjoy tinkering and building with it.
+
+***Link to Work:*** 
+Makeover Monday Data Viz: https://public.tableau.com/profile/dananomics#!/vizhome/HandwashingAftertheToilet/Dashboard1?publish=yes
