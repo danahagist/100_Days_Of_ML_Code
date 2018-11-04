@@ -2765,3 +2765,19 @@ Good hour and a half or so of progress today, and much of that was fumbling thro
 
 ***Link to Work:*** 
 Makeover Monday Data Viz: https://public.tableau.com/profile/dananomics#!/vizhome/HandwashingAftertheToilet/Dashboard1?publish=yes
+
+
+
+### Day 79: November 4th, 2018
+
+***Today's Progress***:
+I have been able to get my studying done over the last few days, but have had absolutely no time to post.  I've been working on a visualization project with NYC traffic collision data, and also getting a Dataquest project documented in Jupyter.  Will plan on posting both of those in the coming days, and plan to really focus on project work once I finish the rest of the Dataquest material.
+
+Dataquest: https://www.dataquest.io
+- Lending Club Project
+
+***Thoughts:***
+Lots and lots of catching up to do with regards to posting.  I plan on getting back in the swing of things this week with the posts, and finish the challenge strong.  I have still been very consistent with studying, but have had a number of things pulling me away from posting.  Regardless, learning and growing every day, as usual.
+
+***Link to Work:*** 
+Stay tuned...
