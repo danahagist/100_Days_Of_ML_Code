@@ -2781,3 +2781,20 @@ Lots and lots of catching up to do with regards to posting.  I plan on getting b
 
 ***Link to Work:*** 
 Stay tuned...
+
+
+
+### Day 80: November 5th, 2018
+
+***Today's Progress***:
+Got some work in on the Makeover Monday challenge today, looking at population projections, and specifically when we expect that elderly folks will outnumber young ones (as the trend of people having less children continues).  Also, wrapped up the Lending Club project and got that posted on Github (see "Link to Work" for both below).
+
+Dataquest: https://www.dataquest.io
+- Lending Club Project
+
+***Thoughts:***
+Getting back into the groove today, and looking forward to making more progress over the coming days.  Still 14% left of the Dataquest Data Scientist path, and I've got to knock that out here quickly!!!  I'm also realizing that I could really use some coursework on Tableau and visualizations.  Like any other skill, when you don't practice on a very regular basis, you lose these skills over time, and DATA VIZ is CRUCIAL!
+
+***Link to Work:*** 
+Makeover Monday Data Viz: https://public.tableau.com/profile/dananomics#!/vizhome/PopulationProjections_9/Sheet2?publish=yes
+Dataquest Lending Club Project: https://dananomics.com/portfolio/predicting-loan-payoff-timeliness/
