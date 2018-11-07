@@ -2798,3 +2798,19 @@ Getting back into the groove today, and looking forward to making more progress 
 ***Link to Work:*** 
 Makeover Monday Data Viz: https://public.tableau.com/profile/dananomics#!/vizhome/PopulationProjections_9/Sheet2?publish=yes
 Dataquest Lending Club Project: https://dananomics.com/portfolio/predicting-loan-payoff-timeliness/
+
+
+
+### Day 81: November 6th, 2018
+
+***Today's Progress***:
+Got some practice in with a project today using Pandas and Matplotlib in Python.  Next, moved on to the "Algorithms" module on Dataquest.  Got about half of that complete today, and plan to finish it tomorrow.
+
+Dataquest: https://www.dataquest.io
+- Algorithms
+
+***Thoughts:***
+Keeping the post light today, and will continue focusing on getting more of the Dataquest material completed tomorrow.  I'm off to Thailand and Vietnam in a week, so my time will become quite a bit limited here soon.
+
+***Link to Work:*** 
+None
