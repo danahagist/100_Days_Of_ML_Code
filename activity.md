@@ -2814,3 +2814,21 @@ Keeping the post light today, and will continue focusing on getting more of the 
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 82: November 7th, 2018
+
+***Today's Progress***:
+Got more practice in with a project today using Pandas, Matplotlib and some Scikit-Learn in Python.  Next, continued with the "Data Structures and Algorithms" course on Dataquest.  Finished the module on Algorithms, Binary Search, and started on Data Structures.
+
+Dataquest: https://www.dataquest.io
+- Algorithms
+- Binary Search
+- Data Structures
+
+***Thoughts:***
+A lot of really good progress on a number of topics today.  Ran into a couple challenges implementing a Logistic Regression model in Python, which means it's time to revisit.  I'm 87% of the way through Dataquest's Data Science with Python track, so I should be wrapping this up fairly soon!
+
+***Link to Work:*** 
+None
