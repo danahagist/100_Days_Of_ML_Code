@@ -2832,3 +2832,21 @@ A lot of really good progress on a number of topics today.  Ran into a couple ch
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 83: November 8th, 2018
+
+***Today's Progress***:
+Continued on today with Dataquest's "Data Structures and Algorithms" course, getting close to completing that (with the exception of the guided project).  I'll circle back to the Guided Project in the coming days when I've got access to a couple computer screens so that I can build it out in Jupyter Notebook along with the Dataquest IDE.  In the interim, I moved forward to the next Dataquest course on "Python Programming: Advanced."  
+
+Dataquest: https://www.dataquest.io
+- Data Structures
+- Recursion and Advanced Data Structures
+- Object-Oriented Programming
+
+***Thoughts:***
+Another day of good progress and healthy head-scratching.  One nice takeaway from today is how recursive functions felt quite a bit more palatable than they did when I visited them a number of months ago.  Although it's still going to take continued practice to be able to answer some of the more advanced questions regarding recursion and recursive data structures, I have been and will continue to put that work in.  It's exciting to feel my brain transcend it's previous capacity on a somewhat regular basis.  That's the benefit of continually challenging oneself.  Those little wins on a daily basis may not be particularly tangible at the time, but going back to topics that were hard to conceptualize and suddenly being able to understand them, means... well... that I'm making progress.
+
+***Link to Work:*** 
+None
