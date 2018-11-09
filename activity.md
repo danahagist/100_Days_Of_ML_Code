@@ -2850,3 +2850,21 @@ Another day of good progress and healthy head-scratching.  One nice takeaway fro
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 84: November 9th, 2018
+
+***Today's Progress***:
+Today, I kept things moving with the Dataquest course on "Python Programming: Advanced."   Course started with some practice in object-oriented programming, including the topic of class inheritance.  Next, I moved on to a module on Exception Handling in order to be able to direct alternate code blocks when an exception is triggered in your code.  Lastly, dove into some Lambda functions.  I'll continue working on this throughout the day, and hope to get through the modules on Lambda Functions and Introduction to Computer Architecture.
+
+Dataquest: https://www.dataquest.io
+- Object-Oriented Programming
+- Exception Handling
+- Lambda Functions
+
+***Thoughts:***
+Some fun and tricky concepts today (OOP, class inheritance, etc).  These are very powerful concepts to allow your code to be modular and efficient.  I'm very excited to be close to wrapping up the Data Science Track in Dataquest, as next... I'll start DataCamp and slow things down to make room for a lot more project work.  
+
+***Link to Work:*** 
+None
