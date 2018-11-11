@@ -2868,3 +2868,21 @@ Some fun and tricky concepts today (OOP, class inheritance, etc).  These are ver
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 85: November 10th, 2018
+
+***Today's Progress***:
+Today, I continued with the Dataquest course "Python Programming: Advanced."  I started out working on the module of Lambda Functions, completed that, and then moved on to Introduction to Computer Architecture.  Lastly, I worked through the module on Parallel Processing, completing the course.
+
+Dataquest: https://www.dataquest.io
+- Lambda Functions
+- Introduction to Computer Architecture
+- Parallel Processing
+
+***Thoughts:***
+92% and counting.  Should be able to wrap up the rest of the course this week before I head off for a vacation to SE Asia.  Good and gratifying sendoff if I can! 
+
+***Link to Work:*** 
+None
