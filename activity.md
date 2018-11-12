@@ -2886,3 +2886,19 @@ Dataquest: https://www.dataquest.io
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 86: November 11th, 2018
+
+***Today's Progress***:
+Today, I worked on the Dataquest course on "Kaggle Fundamentals."  Worked through the typical Kaggle workflow including reading in and cleaning your data, instantiating your model, fitting your model, making predictions with your model, and then determining accuracy of your model.  
+
+Dataquest: https://www.dataquest.io
+- Getting Started with Kaggle
+
+***Thoughts:***
+Made it to 93% of the way through the Dataquest Data Science with Python track today.  Was good to gain a better understanding of Kaggle competitions, as these are something I want to get much more involved with over time.  From a Machine Learning standpoint, proving your mettle with Kaggle is a great way to go, and I plan to augment that learning with more insight and visualization focused learning as well.
+
+***Link to Work:*** 
+None
