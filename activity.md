@@ -2902,3 +2902,22 @@ Made it to 93% of the way through the Dataquest Data Science with Python track t
 
 ***Link to Work:*** 
 None
+
+
+
+
+### Day 87: November 13th, 2018
+
+***Today's Progress***:
+Today, I primarily worked on SQL work in Udacity, just revisiting certain topics to ensure they were top of mind.  
+
+Udacity SQL for Data Analysis: https://www.udacity.com/course/sql-for-data-analysis--ud198
+- Joins
+- Aggregate Functions
+- Window Functions
+
+***Thoughts:***
+Well... only 13 days left of the challenge.  It's been a long and extremely rewarding road.  I've had to take a couple breaks throughout due to travel and other personal obligations, but have been conservative on giving myself credit, and have probably already hit 100 days of coding practice, but have missed some of the posting.  That said, I'm headed out to Thailand and Vietnam tomorrow!  Will be a bit spotty in my posting over the next two weeks while I'm gone.  But, I plan to finish strong upon my return.
+
+***Link to Work:*** 
+None
