@@ -2921,3 +2921,22 @@ Well... only 13 days left of the challenge.  It's been a long and extremely rewa
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 88: November 25th, 2018
+
+***Today's Progress***:
+Very nice today to be doing a little bit of data science study from the edge of an infinity pool in Thailand.  If you're going to study, all the better to be able to do it in paradise.  I worked on more of the Udacity SQL course and continued on Kaggle Fundamentals on Dataquest.  
+
+Udacity SQL for Data Analysis: https://www.udacity.com/course/sql-for-data-analysis--ud198
+- Window Functions
+
+Dataquest: https://www.dataquest.io
+- Kaggle Fundamentals
+
+***Thoughts:***
+I'm really enjoying the Kaggle Fundamentals course on Dataquest, as it's walking through the Titanic Survival challenge from start to finish, including some feature engineering, using different models, etc.  I'm at 94% completion of the Dataquest material, so I'm happy that shortly I'll be able to dive into some new topics/courses/projects.
+
+***Link to Work:*** 
+None
