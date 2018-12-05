@@ -2940,3 +2940,19 @@ I'm really enjoying the Kaggle Fundamentals course on Dataquest, as it's walking
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 89: December 4th, 2018
+
+***Today's Progress***:
+After a couple weeks away traveling in SE Asia, I'm back at home safe and sound and ready to dive back into Machine Learning.  Today, I'm going to keep it simple by focusing on the Dataquest material.  Specifically, I worked on Model Selection and Tuning as part of the "Kaggle Fundamentals" course.
+
+Dataquest: https://www.dataquest.io
+- Kaggle Fundamentals
+
+***Thoughts:***
+It feels great to get back on track today, and get back into my routine of learning and personal improvement.  I've got another 11 days of the challenge, and at 92% completion of the Dataquest Data Science track (completion percentage went down as a new course was just added on Deep Learning fundamentals).
+
+***Link to Work:*** 
+None
