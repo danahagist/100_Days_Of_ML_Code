@@ -2956,3 +2956,19 @@ It feels great to get back on track today, and get back into my routine of learn
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 90: December 5th, 2018
+
+***Today's Progress***:
+Back at it with the  Dataquest "Kaggle Fundamentals" course today.  I wrapped up the Model Selection and Tuning module and moved on the guided project for "Creating a Kaggle Workflow."  I got through the section on Exploratory Data Analysis, and will plan to wrap the project up in the coming days.  
+
+Dataquest: https://www.dataquest.io
+- Kaggle Fundamentals
+
+***Thoughts:***
+I'm pretty excited about going through this project, as developing your Kaggle chops is a great way to learn, practice, and compete with others to gauge how your models stack up against others.  Back to 93% completion in the Data Science track on Dataquest, and I'm determined to sprint through the remainder of this material between the end of this week and the beginning of next.  It's time to embark on new journeys.  Regardless, this material has been great and I've learned so much through it all.  I know that going through similar material again is going to be great for reinforcement.  I may even try to attack those pesky Binary Tree traversal algorithms again.
+
+***Link to Work:*** 
+None
