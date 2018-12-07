@@ -2972,3 +2972,20 @@ I'm pretty excited about going through this project, as developing your Kaggle c
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 91: December 6th, 2018
+
+***Today's Progress***:
+Today, I switched gears a little bit and knocked some of the dust off with R Programming.  Because Dataquest recently revamped all of its R courses, I'm getting to revisit a lot of concepts, with a bit more fresh and organized material.  
+
+Dataquest: https://www.dataquest.io
+- Introduction to Programming in R
+- Working with Vectors
+
+***Thoughts:***
+As I continue to realize, going back through material after you've seen it once, IT RESONATES SO MUCH MORE! As I dive back into some R Programming, I am now finally beginning to realize some of the areas where R and Python can be compared.  In terms of having nice statistical outputs and visualizations, R is a really amazing tool.  I recently learned the hard way, for example, that there isn't a straight-forward method to visualizing a Decision Tree in Python (don't attack me, I said 'straight-forward').  However, with R, it's a common task. Anyway, so many of the general programming concepts are shared across languages, that no matter what language you're using, it's all important and all good practice.
+
+***Link to Work:*** 
+None
