@@ -2989,3 +2989,20 @@ As I continue to realize, going back through material after you've seen it once,
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 92: December 7th, 2018
+
+***Today's Progress***:
+Continuing on today with the R Programming Courses on Dataquest.  I worked on the modules for working with matrices and lists, which are both very seamless in R.
+
+Dataquest: https://www.dataquest.io
+- Working with Vectors
+- Working with Lists
+
+***Thoughts:***
+I'm keeping my thoughts section light today, as I have an extremely busy day ahead.  I'm enjoying refreshing some of my R knowledge, as I'm sure I will continue to utilize the language for a number of statistical and machine learning tasks throughout my career.
+
+***Link to Work:*** 
+None
