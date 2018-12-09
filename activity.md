@@ -3006,3 +3006,19 @@ I'm keeping my thoughts section light today, as I have an extremely busy day ahe
 
 ***Link to Work:*** 
 None
+
+
+
+### Day 93: December 8th, 2018
+
+***Today's Progress***:
+Today, I changed the routine a bit from my Data Science and Machine Learning material, and dove into some Search Engine Marketing (SEM).  Due to the countless applications of Data Science to SEM, I wanted to get a better grasp of marketing metrics, methodologies, etc.   I got through all of the Google Ads Fundamentals material and passed the assessment.
+
+Google Academy for Ads: https://landing.google.com/academyforads/#?modal_active=none
+- Google Ads Fundamentals
+
+***Thoughts:***
+I've been meaning to get some SEM material under my belt for some time, and it feels good to have dug into it today.  I learned quite a bit from the material today in regards to advertising strategies.  I'm excited to dig more into this material over the next couple days in order to develop a thorough understanding, and get a better sense of how to position my own website in the process.
+
+***Link to Certification:*** 
+Google Ads Fundamentals: https://academy.exceedlms.com/student/award/25429704
