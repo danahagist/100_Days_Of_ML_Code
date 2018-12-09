@@ -3041,6 +3041,5 @@ Google Academy for Ads: https://landing.google.com/academyforads/#?modal_active=
 I covered a lot of ground in numerous subjects today, centered around Machine Learning and SEM.  Only another week or so to go for the challenge, although I'm thinking I'll just keep on rolling with the posts for as long as I can.  The frequency may change as I focus a bit more on project work, but I fully intend on keeping the learning journey going.
 
 ***Link to Work/Certifications:*** 
-Creating a Kaggle Workflow (Project): https://dananomics.com/portfolio/creating-a-kaggle-workflow/
-
-Dataquest "Creating a Kaggle Workflow" Certification: https://www.dataquest.io/view_cert/5EPHIOLH6YKFPLVSH9MH/
+- Creating a Kaggle Workflow (Project): https://dananomics.com/portfolio/creating-a-kaggle-workflow/
+- Dataquest "Creating a Kaggle Workflow" Certification: https://www.dataquest.io/view_cert/5EPHIOLH6YKFPLVSH9MH/
