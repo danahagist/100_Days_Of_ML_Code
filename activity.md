@@ -3042,4 +3042,5 @@ I covered a lot of ground in numerous subjects today, centered around Machine Le
 
 ***Link to Work/Certifications:*** 
 Creating a Kaggle Workflow (Project): https://dananomics.com/portfolio/creating-a-kaggle-workflow/
+
 Dataquest "Creating a Kaggle Workflow" Certification: https://www.dataquest.io/view_cert/5EPHIOLH6YKFPLVSH9MH/
