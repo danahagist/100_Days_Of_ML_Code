@@ -3022,3 +3022,24 @@ I've been meaning to get some SEM material under my belt for some time, and it f
 
 ***Link to Certification:*** 
 Google Ads Fundamentals: https://academy.exceedlms.com/student/award/25429704
+
+
+
+### Day 94: December 9th, 2018
+
+***Today's Progress***:
+I'm working through a lot of material today.  I started with finishing the Dataquest "Kaggle Fundamentals" course and completed a cool project utilizing Logistic Regression, KNeighbors and Random Forest algorithms on the infamous Titanic Survival Dataset (see "Link to Work" below).  I also worked on a newly released Dataquest course on Deep Learning Fundamentals.  Lastly, I worked on Search Engine Marketing (SEM), specifically working on the "Google Ads Search" course. 
+
+Dataquest: https://www.dataquest.io/home
+- Kaggle Fundamentals
+- Deep Learning Fundamentals
+
+Google Academy for Ads: https://landing.google.com/academyforads/#?modal_active=none
+- Google Ads Search
+
+***Thoughts:***
+I covered a lot of ground in numerous subjects today, centered around Machine Learning and SEM.  Only another week or so to go for the challenge, although I'm thinking I'll just keep on rolling with the posts for as long as I can.  The frequency may change as I focus a bit more on project work, but I fully intend on keeping the learning journey going.
+
+***Link to Work/Certifications:*** 
+Creating a Kaggle Workflow (Project): https://dananomics.com/portfolio/creating-a-kaggle-workflow/
+Dataquest "Creating a Kaggle Workflow" Certification: https://www.dataquest.io/view_cert/5EPHIOLH6YKFPLVSH9MH/
