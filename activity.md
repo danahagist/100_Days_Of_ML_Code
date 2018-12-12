@@ -3046,7 +3046,7 @@ I covered a lot of ground in numerous subjects today, centered around Machine Le
 
 
 
-### Day 95: December 10th, 2018
+### Day 95: December 11th, 2018
 
 ***Today's Progress***:
 I covered a couple different topics today, including more of the "Deep Learning Fundamentals" course on Dataquest and more of Google's Academy for Ads "Search Ads Search" content.
