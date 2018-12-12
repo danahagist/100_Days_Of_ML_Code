@@ -3043,3 +3043,22 @@ I covered a lot of ground in numerous subjects today, centered around Machine Le
 ***Link to Work/Certifications:*** 
 - Creating a Kaggle Workflow (Project): https://dananomics.com/portfolio/creating-a-kaggle-workflow/
 - Dataquest "Creating a Kaggle Workflow" Certification: https://www.dataquest.io/view_cert/5EPHIOLH6YKFPLVSH9MH/
+
+
+
+### Day 95: December 10th, 2018
+
+***Today's Progress***:
+I covered a couple different topics today, including more of the "Deep Learning Fundamentals" course on Dataquest and more of Google's Academy for Ads "Search Ads Search" content.
+
+Dataquest: https://www.dataquest.io/home
+- Representing Neural Networks
+
+Google Academy for Ads: https://landing.google.com/academyforads/#?modal_active=none
+- Google Ads Search
+
+***Thoughts:***
+I didn't have a chance to post yesterday due to some exciting "goings on" that I will share soon, but I have been making my way through the material.  I'm hoping to get through both of these courses over the coming days and have my Google Ads Certification as a token of my efforts.  Also, five more days of the challenge (and probably not much longer for Dataquest)!
+
+***Link to Work/Certifications:*** 
+None
