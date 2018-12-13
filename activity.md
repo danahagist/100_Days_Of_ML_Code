@@ -3062,3 +3062,20 @@ I didn't have a chance to post yesterday due to some exciting "goings on" that I
 
 ***Link to Work/Certifications:*** 
 None
+
+
+
+### Day 96: December 12th, 2018
+
+***Today's Progress***:
+I continued with more of the "Deep Learning Fundamentals" course on Dataquest.  Wrapped up the module on Representing Neural Networks, which was a discussion of the components of a Neural Network, and then started learning about Nonlinear Activation Functions.  As a part of the Nonlinear Activation Functions material, I was reintroduced to some concepts from Trigonometry (oh, how I've missed Trig).  But really, it was cool to see how those same concepts are so applicable in just about any field.
+
+Dataquest: https://www.dataquest.io/home
+- Representing Neural Networks
+- Nonlinear Activation Functions
+
+***Thoughts:***
+Another percent down on the Dataquest material and another day closer to the end of the 100 Days of ML Code challenge.  I'm keeping the commentary light today, but as always, enjoying the learning.
+
+***Link to Work/Certifications:*** 
+None
