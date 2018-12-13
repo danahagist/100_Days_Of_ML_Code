@@ -3079,3 +3079,20 @@ Another percent down on the Dataquest material and another day closer to the end
 
 ***Link to Work/Certifications:*** 
 None
+
+
+
+### Day 97: December 13th, 2018
+
+***Today's Progress***:
+Today, I dove a little bit deeper into the Deep Learning Fundamentals course on Dataquest and wrapped up the two final modules before the Guided Project.  I will work through this and another Guided Project in the coming days, and get those posted to the site.
+
+Dataquest: https://www.dataquest.io/home
+- Nonlinear Activation Functions
+- Hidden Layers
+
+***Thoughts:***
+I'm finally getting my sleep adjusted from my trip to SE Asia, so it felt great to get up at my "normal" 6am wake up time as opposed to what I've been experiencing, which is waking up at 3am, going back to sleep after an hour, and then feeling completely exhausted when I finally get going for the day.  Got an hour and a half of neural network training in this morning, and I'm at 95% through the Data Scientist track!  I'm so close I can taste it.  And... 3 more days of the challenge!  I'll have some good blog material coming up here over the next couple weeks, so stay tuned.
+
+***Link to Work/Certifications:*** 
+None
