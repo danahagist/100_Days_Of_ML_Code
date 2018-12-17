@@ -3096,3 +3096,19 @@ I'm finally getting my sleep adjusted from my trip to SE Asia, so it felt great 
 
 ***Link to Work/Certifications:*** 
 None
+
+
+
+### Day 98: December 17th, 2018
+
+***Today's Progress***:
+I've had to table most activities for the last few days due to some personal things going on, but I'm back at it on this Monday morning!  Today, I jumpted back into the material on Dataquest, looking at the module on "Naive Bayes for Sentiment Analysis."  
+
+Dataquest: https://www.dataquest.io/home
+- N
+
+***Thoughts:***
+I 
+
+***Link to Work/Certifications:*** 
+None
