@@ -3099,16 +3099,18 @@ None
 
 
 
-### Day 98: December 17th, 2018
+### Day 98: December 20th, 2018
 
 ***Today's Progress***:
-I've had to table most activities for the last few days due to some personal things going on, but I'm back at it on this Monday morning!  Today, I jumpted back into the material on Dataquest, looking at the module on "Naive Bayes for Sentiment Analysis."  
+I've had to table most activities for the last few days due to some personal things going on, but I'm back at it on this Thursday morning!  Today, I jumped back into the material on Dataquest, completing the modules on "Naive Bayes for Sentiment Analysis," "An Introduction to K-Nearest Neighbors," and "Introduction to Natural Language Processing."  
 
 Dataquest: https://www.dataquest.io/home
-- N
+- Naive Bayes for Sentiment Analysis
+- An Introduction to K-Nearest Neighbors
+- Introduction to Natural Language Processing
 
 ***Thoughts:***
-I 
+I'm at 96% through the Data Scientist in Python track on Dataquest, so only a few days left.  Also, I'm only a couple days out from finishing my 100 Days of ML Code Challenge.  There are many exciting things on the horizon, so I'll keep you all posted!
 
 ***Link to Work/Certifications:*** 
 None
