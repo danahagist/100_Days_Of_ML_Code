@@ -3114,3 +3114,24 @@ I'm at 96% through the Data Scientist in Python track on Dataquest, so only a fe
 
 ***Link to Work/Certifications:*** 
 None
+
+
+
+### Day 99: December 24th, 2018
+
+***Today's Progress***:
+Once again, had to take a few days off due to some good, imminent life changes headed my way, but got back to the study and blogging this Monday morning.  Merry Christmas Eve everyone!  Today, I jumped back into the material on Dataquest, and was introduced to Spark and the Python toolkit called PySpark.  Although I'm sure at this point there are any number of libraries and packages that allow for distributed processing across machines or on your own machine, this was a good introduction.  I'm very excited about using some of the Spark SQL functionality, albeit primarily because I'm still quite a bit stronger in SQL than I am with Python (Pandas and the like).  
+
+Dataquest: https://www.dataquest.io/home
+- Introduction to Spark
+- Spark Installation and Jupyter Notebook Integration
+- Transformations and Actions
+- Challenge: Transforming Hamlet into a Data Set
+- Spark DataFrames
+- Spark SQL
+
+***Thoughts:***
+99 Days in and 99% through Dataquest... with the full intention of being done with both in the next couple days.  I've got many, many exciting things going on, which I will update everybody on in the coming days.  I will also have some great material for the blog.  With that said, happy holidays to you all! I will be in touch in a day or two to wrap this all up!
+
+***Link to Work/Certifications:*** 
+None
