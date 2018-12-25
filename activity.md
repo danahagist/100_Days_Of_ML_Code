@@ -3135,3 +3135,20 @@ Dataquest: https://www.dataquest.io/home
 
 ***Link to Work/Certifications:*** 
 None
+
+
+
+### Day 100: December 25th, 2018
+
+***Today's Progress***:
+Merry Christmas and Happy Holidays everyone!  I thought I would kick off the day by giving myself the gift of a shiny Dataquest certificate, and finish up all of the Data Scientist in Python material (see the links in the "Link to Work/Certifications below).    
+
+Dataquest: https://www.dataquest.io/home
+Data Scientist in Python Certificate: https://www.dataquest.io/view_cert/X2S0EC8O8A2FLTQENQO0/
+
+***Thoughts:***
+This has been a crazy journey and I've learned a ton throughout.  I can't believe I finally finished, and it's perfectly fitting to close this chapter as there are some new doors opening in the new year.  I'll be posting a few blog posts over the coming days, sharing some news, and getting some valuable content in front of people!
+
+***Link to Work/Certifications:*** 
+Dataquest Guided Project: https://github.com/danahagist/Dataquest_Projects/blob/master/Handwritten_Digit_Classifier/Basics.ipynb
+Dataquest "Data Scientist in Python" Certificate: https://www.dataquest.io/view_cert/X2S0EC8O8A2FLTQENQO0/
